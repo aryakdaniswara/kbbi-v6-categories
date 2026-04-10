@@ -1,0 +1,46 @@
+administrator
+alamat ip
+alamat ip khusus
+alamat kam
+alamat kendali akses media
+alamat mac
+alamat privat
+alamat publik
+alamat statis
+analis data
+antiiklan
+apjii
+bank data
+bank daya
+deteksi anomali
+dokumen asli
+dokumen elektronik
+enkripsi ujung ke ujung
+fitur keamanan
+infrastruktur digital
+jaringan lokal
+jaringan saraf konvolusi
+jaringan tertutup
+kam
+kecerdasan buatan generatif
+kernel
+lipsus
+logika boolean
+malwer
+mikropengendali
+operator boolean
+pembelajaran penguatan
+pertahanan siber
+peta situs
+pos elektronik
+rekayasa fitur
+sistem temu balik informasi
+skalabilitas
+superadmin
+superadministrator
+surat elektronik
+tab samaran
+teknologi video
+terabit
+topologi bintang aktif
+trm

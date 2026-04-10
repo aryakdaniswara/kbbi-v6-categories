@@ -1,0 +1,236 @@
+afiliasi cabang
+akun nontamu
+akun tamu
+alas seprai
+area pemilahan
+area publik
+area umum
+arkade hotel
+aset lancar
+audit malam
+bagan reservasi konvensional
+bangku koper
+barang pinjaman tamu
+batas kredit
+beban lebih
+berbagi kamar
+biaya lapor keluar lambat
+biaya layanan
+biaya pembatalan
+biaya pemesanan
+biaya tambahan tunggal
+brankas tamu
+bukti penitipan barang
+buku barang
+buku besar tamu keluar
+buku besar umum
+buku catatan inventaris
+buku catatan peminjaman
+buku catatan peminjaman barang
+buku hilang
+buku informasi layanan
+buku komunikasi
+buku ruang penitipan
+bus layanan
+catatan pembatalan
+catatan riwayat tamu
+cek kamar pagi
+daftar centang orientasi
+daftar centang pemeliharaan
+daftar harga penatu
+daftar kedatangan
+daftar kedatangan dan kepergian
+daftar kedatangan terkirakan
+daftar kepergian
+daftar minibar
+daftar penempatan kamar
+daftar tamu
+daftar tamu menginap
+daftar telepon internal
+daftar tur
+denah evakuasi
+denah pintu darurat
+departemen pendukung
+departemen tata gerha
+deposit tak terkembalikan
+deposit uang muka
+diari hotel
+divisi kamar
+dokter hotel
+dormitori
+dupleks
+durasi inap
+duvet
+ekowisatawan
+en suite
+faktor tamu tak datang
+folio
+formulir permintaan perbaikan
+formulir reservasi
+grafik reservasi mendatang
+harga bersih
+harga kontrak
+hostel remaja
+hotel bandara
+hotel bisnis
+hotel bujet
+hotel butik
+hotel cabang
+hotel independen
+hotel internasional
+hotel jaringan
+hotel layanan terbatas
+hotel mewah
+hotel musiman
+hotel perdesaan
+hotel perkotaan
+hotel residensial
+hotel resor
+hotel suit
+hotel transien
+hotel transit
+hotelier
+hunian ganda
+hunian optimal
+hunian tunggal
+inap keluarga
+inap sulih
+indeks tamu alfabetis
+inspeksi kamar
+jakuzi
+jaminan deposit uang muka
+jaringan reservasi berafiliasi
+jasa perhotelan
+kamar bebas asap rokok
+kamar berhadapan
+kamar bersebelahan
+kamar contoh
+kamar deluks
+kamar dupleks
+kamar ganda
+kamar gandeng
+kamar kembar
+kamar penuh
+kamar ranjang ganda kembar
+kamar rusak
+kamar standar
+kamar suit
+kamar superior
+kamar swainap
+kamar terblokir
+kamar terhubung
+kamar terpesan
+kamar tripel
+kamar tunggal
+kantong sanitasi
+kantor belakang
+kantor depan
+kantor kasir
+kantor pemesanan pusat
+kantor tata gerha
+kapten pramutamu
+kartu komentar tamu
+kartu kunci
+kartu penanganan barang
+kartu pendaftaran
+kartu penolakan pembersihan
+kartu riwayat tamu
+kartu tamu
+karyawan bagian depan
+kasir kantor depan
+kasur tambahan
+kedatangan awal
+kedatangan lambat
+kepala pelayan
+kepergian awal
+kepulangan awal
+ketersediaan kamar
+kode pembatalan
+kolam pusaran
+kontrak pembelian
+kotak simpan kunci kamar
+kunci elektronik
+kunci kait
+kunci master
+kupon makan
+label koper
+lampu berdiri
+lampu tidur
+lantai eksekutif
+lapor keluar awal
+lapor keluar cepat
+lapor keluar lambat
+lapor masuk kilat
+laporan aktivitas tamu
+laporan manajer
+laporan penata gerha
+laporan pengaudit malam
+laporan penugasan tata gerha
+laporan produktivitas tata gerha
+laporan status grup
+laporan terkait komisi
+laporan transaksi reservasi
+layanan berseragam
+layanan kamar
+layanan pemadu
+layanan penatu
+layanan penatu sehari
+layanan pengantaran
+layanan penjemputan
+lift layanan
+lubang intip
+manajer malam
+masa inap
+masuk langsung
+menu gantung pintu
+menu layanan kamar
+minuman selamat datang
+musim ramai
+nota terpisah
+panggilan internal
+papan pengumuman harian
+pelanggan eksternal
+pelanggan internal
+pemangkir
+pemeriksaan kamar
+pemesanan terjamin
+pendeteksi asap
+pendeteksi kebakaran
+pendeteksi logam
+pengaudit malam
+pengawas tata gerha malam
+pengeblokan kamar
+perbedaan status kamar
+peringkat bintang
+perkiraan aktivitas kamar
+perkiraan hunian
+perlengkapan kamar tamu
+permintaan khusus tamu
+perpanjangan inap
+pondok wisata
+ranjang dinding
+ranjang ekstra
+ranjang ganda
+ranjang kembar
+ranjang tunggal
+ranjang ukuran 1
+ranjang ukuran 2
+reservasi berlebih
+reservasi deposit
+reservasi sementara
+reservasi tak terjamin
+reservasi terjamin
+reservasi terkonfirmasi
+riwayat reservasi
+sarapan ala inggris
+sarapan ala kontinetal
+selimut pemadam
+tabung linen
+tamu inkognito
+tarif akhir pekan
+tarif datang langsung
+tarif musiman
+tarif paket
+tarif paket keluarga
+tarif perusahaan
+titik kumpul

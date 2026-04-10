@@ -1,0 +1,153 @@
+aerator
+agihan arus
+agometer
+akses
+aliran tunak
+antena dwikutub lipat
+antena dwikutub loloh cakram
+antena dwirunjung
+antena pemancar
+antena penerima
+antena rombus
+antena vivaldi
+arde
+arus bolak-balik
+arus imbas
+arus listrik
+arus pemagnet
+arus searah
+asas superposisi
+autodin
+beda potensial
+catu daya
+celah udara
+definisi
+definisi tinggi
+diagometer
+distorsi amplitudo
+dudukan lampu
+elektrifikasi otomotif
+elektrode karbon
+elektrode negatif
+elektrode pembanding
+elektrode platina
+elektrode superkapasitor
+elektrode terumpan
+elektrode tungsten
+elektrodeposisi
+elektroforesis gel
+elektroforesis kapiler
+elektrokatalis
+elektrokinetik
+elektron atom
+elektron intrinsik
+elektron sunyi
+elektronegatif
+elektronika instrumentasi
+elektronika kuantum
+elektronika pasif
+elektropositif
+elektrostatika
+elektrotipe
+elemen pemanas
+era elektrifikasi
+esi
+fidelitas
+flensa
+frekuensi ultratinggi
+garis antena
+gaya gerak listrik
+gerbang
+henry
+heterostatik
+hubungan singkat
+ignitor
+impedans sentakan
+induktans
+induktansi
+instalasi
+interpreter
+isolasi
+isolasi ganda
+kabel berisolasi
+kabel primer
+kapasitans
+kapasitas
+kapasitor
+kapilaritas
+katode
+kilowattjam
+koefisien carter
+kolektor
+konduktans
+konis
+kontrol adaptif
+kotak kontak
+kotak listrik
+lampu busur
+lampu halogen
+lampu kuarsa
+landas data
+lendungan
+lendutan
+lilin
+lintas komputer
+masukan
+melucutkan
+mikroelektronika
+mikromodul
+mikromotor
+mikroohm
+mono
+multimeter analog
+naf
+nanofarad
+osilogram
+pantograf
+paritas
+pemercontohan alur
+pemutus arus listrik
+pendukung
+pentode
+penyearah
+percepatan vektor
+periferal
+pikohidro
+polifase
+poros bubungan
+poros engkol
+potensiodinamik
+potensiometrik
+rankine
+reaktans
+reaktansi
+redundan
+redundansi
+register
+regulator tegangan
+rerugi
+resistans rotor
+resistor balas
+roda penyesuaian
+sel kering
+sintonik
+soket lampu
+stator
+sudu
+superheterodin
+telearsika
+telemetri
+termion
+termistor
+tiang pemegang
+titik sambung
+tombol reset
+tombol resume
+transmutasi
+trek
+tusuk kontak
+volt
+voltameter
+voltase
+voltmeter
+watt

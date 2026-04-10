@@ -1,0 +1,502 @@
+a
+accelerando
+adagio
+adangiyah
+afetuoso
+ageng
+akor
+akordeon
+akordeonis
+akselerando
+aksentuasi
+aksidental
+alegreto
+alegro
+alforn
+alto
+amapiano
+ambitus
+anakrus
+andante
+andegan
+andoi
+anggang-anggang
+angklung
+angklung gubrak
+angklung kanekes
+angsur jelas
+animato
+antal
+anteseden
+apoyando
+arabahu
+aramba
+aransemen
+aria
+arpegio
+awit
+babarangan
+babun
+badi tiang
+bagana
+bahu
+bajang kerek
+balabak
+balalaika
+balio
+balungan
+banggen
+banjo
+bantang
+banyo
+banyois
+barang
+baris titinada
+bariton
+barok
+barung
+bas
+bas bercorak
+bas betot
+batang pendulum
+batangan
+baton
+beban geser
+bebop
+bedayan
+belimbingan
+bendera not
+berpencu
+bertala-tala
+besut
+birama
+birama gantung
+blantika
+blengker
+blero
+blues
+bonang penembung
+bonang penerus
+bonangan
+bosa nova
+boy band
+bpm
+c
+cakepan
+calong
+calung lengger
+canang
+cantabile
+capo
+carabalen
+celempong
+celempung
+celo
+celuring
+cempres
+cerempung
+con molta passione
+crescendo
+curiga
+d
+da
+da camera
+da capo
+da capo al fine
+dadako
+daga
+damaru
+dami
+daminatila
+dandi
+dang
+dangdut
+dansa
+dap
+daur ulang
+dawah
+desimol
+dinamika
+ding
+dizi
+do
+dog-dog
+dol
+dong
+drum elektrik
+drum tenor
+drumer
+dudu
+dung
+duplet
+dweng
+e
+ekatantri
+embosur
+encore
+ensambel
+etude
+f
+fa
+fagot
+falseto
+fermata
+forte
+fortepiano
+fortissimo
+fret
+g
+galaganjur
+gambang
+gambus
+gamelan bumbung
+gangsaran
+garis bantu
+garis bendera
+garis birama
+garis lengkung melismatis
+garis paranada
+gedombak
+gembyang
+gembyung
+gendang
+gender
+genggong
+genjring
+genta eret
+gerantang
+gitar
+gitar akustik
+gitar bas
+gitar listrik
+gitar melodi
+gitar resofonik
+gitar resonator
+gitarlele
+glisando
+gong
+gong bumbung
+gong siyem
+gong suwukan
+gonrang
+gontang
+grenek
+grip
+grit
+hambat ganda
+hapetan
+harmoni
+harmonika
+harmonisasi
+harmonium
+harpa
+harpa aeolian
+heterofoni
+hiphop
+hitada
+hobo
+idiofon
+insipit
+instrumen petik
+instrumen pukul
+instrumen tiup
+instrumental
+instrumentalistik
+instrumentasi
+instrumentasi akustik
+interval
+interval nada
+intonasi
+introduksi
+irama
+japan
+japen
+jegog
+jegogan
+jengglong
+jenglong
+jimbe
+jindra
+jineman
+jublag
+jungga
+kabaza
+kadens
+kakofoni
+kam
+kanon
+kantikel
+kapo
+karekeregalang
+kastanyet
+kendang bumbung
+kenobe habetas
+kepala not
+keromong
+keroncong
+ketuk
+kibor
+kibordis
+klante
+klarinet
+klaviola
+klef
+knobe oh
+kolintang
+komposisi
+kompositoris
+konduktor
+konga
+konser perpisahan
+konser tunggal
+konser virtual
+konserto
+kontano
+kontinuo
+kontra
+kontra bas
+kontra fagot
+kontra tenor
+kontrabas
+kontralto
+kontrapung
+kord
+kordofon
+kornet
+kornetis
+korus
+kres
+kresendo
+kromatis
+kuantaiz
+kuart
+kunci
+kunci gitar
+kuodlibet
+la
+lagu-lagu
+lambe gajah
+laras pancer
+larau
+largisimo
+largo
+laya
+legato
+leher gitar
+lenso
+lidah serunai
+ligatur
+lira
+lirihan
+luas suara
+majeur
+mandolin
+manimba
+manyura
+marakas
+marimba
+marwas
+mayat
+mayor
+mbalung
+medlei
+meko
+mele
+melisma
+melodi
+melodika
+melodius
+melolog
+membranofon
+mendaur ulang
+mengintil
+mento
+merdangga
+metalofon
+metit
+mezzo
+mezzo forte
+mezzo piano
+mezzo-soprano
+midi
+milah
+mineur
+minir
+minor
+moderato
+moderato cantabile
+modul suara
+modulasi
+moko
+mol
+monotimbral
+multitimbral
+murba
+musik absolut
+musik angklung
+musik dangdut
+musik elektronik
+musik indi
+musik kamar
+musik populer
+musik punk
+musik rap
+na
+nada harmoni
+nokturno
+nonuplet
+not bantu
+not bendera
+not garis
+not seperdelapan
+not seperempat
+not spasi
+nut
+obo
+obois
+oktaf
+oktet
+oratorium
+organ
+organologi
+orgel
+ornamen
+ostinato
+overture
+pamatut
+pancer
+panel akustik
+papan tuts
+paranada
+partita
+patet
+peking
+pelog
+pencetak hit
+pengaba
+penggerong
+pentatonik
+petit
+petuk
+pianissimo
+piano
+pik
+pita ragaan
+pizikato
+plektrum
+polifoni
+pompang
+pop filter
+popera
+portamento
+prelude
+prestisimo
+prestissimo
+presto
+primouomo
+progresi akor
+pugar
+pulsa
+puvi-puvi
+rai
+rallentando
+re
+recep
+recitativo
+rege
+register
+rengkong
+resitalis
+rif
+ritardando
+ritenuto
+rubato
+rumba
+s
+saksofon
+salung
+sangkar nada
+saron
+sasando
+sekal
+sekstet
+selo
+seminada
+senggreng
+septet
+septuplet
+seruling
+serunai
+si
+sikat kawat
+simbal
+simbol jeda
+singel
+sinkopasi
+sistrum
+siter
+ska
+sol
+solfeggio
+solfegio
+solmisasi
+soran
+sotto voce
+spikato
+stakato
+stem
+stik
+stringendo
+studio rekaman
+suara kepala
+subdominan
+submedian
+subtonik
+supertonik
+tabla
+tablatur
+tala
+tala mutlak
+talempong
+tamborin
+tambur
+tanda diam
+tanda dinamik
+tanda kres
+tanda mol
+tanda mula
+tanda mula natural
+tanda oktava
+tangga nada kromatik
+tangga nada mayor
+tangga nada pentatonis
+tanggetong
+tangkai not
+tarawangsa
+tebung
+teknik tremolo
+tetrakor
+ti
+timbre
+timpani
+tirando
+titik penambah
+titilaras
+titinada
+tonalitas
+transpos
+trikona
+trio vokal
+triol
+trombon
+trombonis
+trompong
+tuma
+tunggalan
+ukulele
+urung
+vibrato
+vuvuzela
+xilofon
+xilofonis
+ziter

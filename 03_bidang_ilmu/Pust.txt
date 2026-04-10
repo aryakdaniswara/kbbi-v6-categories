@@ -1,0 +1,216 @@
+akses arsip
+akuisisi arsip
+alat baca
+alat baca mikrofilm
+alat baca mikrofis
+angka anterior
+arsip audio
+arsip audio visual
+arsip elektronik
+arsip film
+arsip foto
+arsip inaktif
+arsip konvensional
+arsip statis
+arsip terjaga
+arsip umum
+arsip video
+arsip vital
+aturan penjajaran
+audit kearsipan
+bacaan asas
+badan bawahan
+badan berkaitan
+bagan alur
+bagan kelasan
+bahan bukan buku
+bahan sertaan
+bahasa indeks
+bina nomor
+bincang buku
+bingkai judul
+buku balok
+buku berjilid
+buku cetak
+buku diragukan
+buku sandi
+catatan analitis
+catatan lanjutan
+catatan perjilidan
+catatan petunjuk
+cetak akua
+cetak balok
+cetak coba pengarang
+cetakan pertama
+daftar induk
+daftar kendali pengarang
+daftar kumulatif
+daftar nondeskriptor
+daftar pengerakan
+deasidifikasi
+desiderata
+dokumen bibliografi
+dokumen dinamis
+dokumen fisik
+dokumen intelektual
+dokumen literer
+dokumen niaga
+dokumen nontekstual
+dokumen pemerintah
+dokumen pribadi
+dokumen primer
+dokumen privat
+dokumen sekunder
+dokumen statis
+dokumen tekstual
+dokumen tersier
+dpa
+edisi awal
+edisi bertanda tangan
+edisi cetak
+edisi kuarto
+edisi kumpulan
+edisi mewah
+edisi pengarang
+edisi pentas
+edisi penyempurnaan
+edisi sah
+edisi sahih
+edisi sekolah
+edisi sementara
+edisi ulang
+edisis sah
+enkapsulasi
+entri anonim
+entri korporasi
+entri nama
+entri pilihan
+entri sekunder
+entri seri
+entri tambahan judul
+entri terbalik
+fase perbaikan
+format layar
+formulir permohonan
+guru pustakawan
+indensi
+jadwal retensi arsip
+jikn
+jra
+judul pendek
+judul pengganti
+judul setara
+kartu buku
+kata penyambung
+katalog berabjad
+katalog berkas
+katalog buku
+katalog induk
+katalog kamus
+katalog kartu
+katalog penerbit
+katalog pengarang
+katalog plakat
+katalog tema
+kdt
+kertas halus
+kertas permanen
+kerusakan berat
+kerusakan ringan
+kerusakan sedang
+keterangan musnah
+klasifikasi desimal universal
+klasifikasi isbn
+koleksi buku
+kopi autentik
+kopi biasa
+kopi format asli
+kopi imitasi
+kopi jilid
+kopi palsu
+kopi pengarang
+korosi tinta
+kriptografi kunci publik
+lake
+laki
+layanan pandang dengar
+layanan terbuka
+layanan tertutup
+lembaga kearsipan
+lhm
+lhpkn
+lkd
+lkptn
+manajemen rekod
+manajemen risiko rekod
+masa pinjam
+mikrolega
+nomor draf
+nomor registrasi
+organisasi kearsipan
+pae
+pedoman autentikasi arsip statis
+pekan buku
+pembagian bentuk
+pembatalan naskah dinas
+pemeliharaan arsip
+pemusnahan arsip
+pemusnahan rekod
+pencabutan naskah dinas
+pencipta arsip
+penciptaan arsip
+penertiban administrasi
+pengawasan kearsipan
+pengelolaan arsip dinamis
+pengelolaan arsip statis
+penggunaan arsip
+pengujian arsip terpapar api
+pengujian hasil cetak dan fotokopi
+pengujian hasil ketik
+pengujian karakteristik kertas
+pengujian karakteristik tinta
+pengujian markah tirta
+pengujian perubahan arsip
+pengujian stempel
+pengujian tanda tangan
+pengujian tulisan tangan
+penilaian kerusakan arsip kertas
+penyelenggaraan kearsipan
+penyiangan koleksi
+penyusutan arsip
+perangkat mnemonik
+perjanjian internasional
+perpustakaan elektronik
+perpustakaan internasional
+perpustakaan pribadi
+perubahan naskah dinas
+planografi
+preservasi
+preservasi digital
+preservasi kuratif
+preservasi preventif
+program arsip vital
+ralat naskah dinas
+rekod
+restorasi arsip
+retensi aktif
+retensi arsip
+retensi inaktif
+risiko rendah
+risiko sedang
+risiko tinggi
+salinan autentik
+sistem elektronik
+sistem tata rekod
+skn
+surat bebas pustaka
+tajuk antonim
+tanda pautan
+tanggal registrasi
+tarik edar
+tata naskah dinas
+tata rekod
+tempahan
+unit kearsipan
+unit pengolah
+verifikasi autentisitas

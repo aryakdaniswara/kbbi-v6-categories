@@ -1,0 +1,555 @@
+absis
+akar
+akar bilangan
+akar ganda
+akar khayal
+akar kompleks
+akar kuadrat
+akar kubik
+akar pangkat dua
+akar pangkat tiga
+akar persamaan
+akar sederhana
+alfametika
+algoritma berurut
+algoritma paralel
+algoritma pecahan
+algoritma penjadwalan
+algoritma rekursif
+algoritma simpleks
+alikuot
+aljabar abstrak
+aljabar asosiatif
+aljabar boole
+aljabar elementer
+aljabar homologis
+aljabar komutatif
+aljabar linear
+aljabar niskala
+aljabar nonasosiatif
+aljabar universal
+aljabraik
+analisis fourier
+analisis kombinatorial
+angka penuh
+antilog
+anulus
+apotema
+aproksimasi
+aritmetis
+asimtot hiperbola
+autoregresi
+bagi
+bahasa aljabar
+bahasa aplikasi
+balok
+balok genjang
+bangun datar
+bangun geometrik
+bangun identik
+bangun kongruen
+bangun ruang
+bangun serupa
+basis
+beda bersama
+beda himpunan
+beda mundur
+beda mutlak
+beda persekutuan
+belah ketupat
+bentuk kanonis
+bentuk kuadratik
+bentuk linear
+besaran
+bidang banyak
+bidang banyak beraturan
+bidang banyak cekung
+bidang banyak cembung
+bidang banyak sederhana
+bidang datar
+bidang delapan
+bidang empat
+bidang enam
+bidang fase
+bidang kompleks
+bidang koordinat
+bidang potong
+bidang tiga
+biimplikasi
+bilangan
+bilangan alef
+bilangan aritmetika
+bilangan asli
+bilangan berlimpah
+bilangan bulat
+bilangan cacah
+bilangan campuran
+bilangan desimal
+bilangan euler
+bilangan fibonacci
+bilangan ganjil
+bilangan gasal
+bilangan genap
+bilangan imajiner
+bilangan irasional
+bilangan kardinal
+bilangan khayal
+bilangan kompleks
+bilangan kuadrat
+bilangan majemuk
+bilangan ordinal
+bilangan pecahan
+bilangan pokok
+bilangan prima
+bilangan rasional
+bilangan riil
+biner
+biomatematika
+biplanar
+bisektris
+busur
+busur derajat
+busur lingkaran
+busur sekawan
+busur setengah lingkaran
+daftar logaritma
+darab
+denominator
+derajat
+deret
+deret aritmetika
+deret fibonacci
+deret geometri
+deret harmonik
+deret hitung
+deret selang-seling
+deret ukur
+diagonal
+diagonal poligon
+diagonal segi banyak
+diagonal utama matriks
+diagram aliran data
+diagram euler
+diagram venn
+diameter parabola
+diferensial nonlinier
+digit tanda
+dimensi dua
+dimensi ruang vektor
+dimensi satu
+dimensi tiga
+diskriminan
+diskriminan persamaan polinomial
+dua dimensi
+duodesimal
+eigennilai
+eksponen
+eliminan
+faktor
+faktor konversi
+faktor persekutuan
+fpb
+frustum
+frustum benda
+fungsi
+fungsi aljabar
+fungsi eksponensial
+fungsi invers
+fungsi iterasi
+fungsi kebalikan
+fungsi kendala
+fungsi logaritmik
+fungsi tetap
+galat acak
+galat alfa
+galat beta
+garis
+garis alas
+garis bagi
+garis bagi sudut
+garis berat
+garis berat segitiga
+garis fase
+garis median
+garis setumpu
+garis singgung
+garis singgung kurva
+garis tinggi
+gelanggang polinomial
+gelanggang siklis
+gelanggang terurut
+geodesi
+geometri
+geometri analitik
+geometri diferensial
+geometri diferensial klasik
+geometri nonkomutatif
+gnomon
+graf
+graf asiklik
+graf bidang
+graf isomorfik
+graf planar
+grup hasil bagi
+grup hingga
+grup kuosien
+grup multiplikatif
+hampiran
+hasil bagi
+hasil kali
+heksagon
+heksahedron
+heptagon
+heptahedron
+himpunan kosong
+himpunan terurut parsial
+himpunan vektor
+hiperbola
+hiperbola daun dua
+hiperbola daun satu
+hiperbola persegi panjang
+hiperboloid
+hipergeometrik
+hiperkompleks
+hipotesis tandingan
+homomorfisme
+homotopi
+ideal
+ikosahedron
+infinit
+infinitesimal
+ingkaran
+integer
+integraf
+integral
+integral fraksional
+integral lipat
+integral substitusi
+interkuartil
+intersep
+interval
+invers
+inversi perkalian
+irisan
+isogon
+isogonal
+isoklin
+isometri
+isomorfik
+isomorfisme
+jajar genjang
+jajaran genjang
+jari-jari
+juring
+juring besar
+juring kecil
+kalkulus
+kalkulus diferensial
+kalkulus integral
+kanonis
+karakter
+kardinalitas
+kardioid
+kekongruenan
+kekongruenan linear
+kekongruenan segitiga
+keliling
+kelipatan persekutuan
+keluarga lingkaran
+kepekaan bilangan
+kerucut
+kerucut lingkar
+kerucut penggal
+kesamaan
+kesejalanan
+kodomain
+koefisien
+koefisien beta
+koefisien determinasi
+koefisien ekspansi
+koefisien elastisitas
+kohomologi
+kombinatorial
+komputasi
+komputasi numeris
+komputasi tangan
+komutatif
+konfigurasi
+kongruen
+konstanta
+kontinuasi
+kontraposisi
+kontrapositif
+konvergensi absolut
+konvergensi kondisional
+konvergensi sigma
+konversi satuan
+koordinat
+koordinat bola
+koordinat cartesius
+koordinat geografik
+koordinat kutub
+koordinat logaritmik
+koordinat polar
+koordinat silinder
+koordinat tabung
+koordinat titik
+koplanar
+korespondensi satu-satu
+kosekan
+koset
+kosinus
+kosinus arah
+kpk
+kriptaritma
+kuadran
+kuadrat galat
+kuadrat simpangan
+kuadrat terbalik
+kuadratik
+kuadratika
+kuadratur
+kuadrik
+kuartik
+kuboid
+kurva bola
+kurva lurus
+kurva taksederhana
+kurva taktertutup
+kurva tertutup
+kurvilinier
+lambang aljabar
+lema
+lema zorn
+lengkung buka
+lengkung segi banyak
+lengkung tutup
+linear
+lingkaran besar
+lingkaran luar
+lingkaran satuan
+lingkaran sepusat
+loci
+logaritma
+logaritma biner
+logaritma natural
+logaritmik
+lokus
+manipulasi aljabar
+mantisa
+matematisasi
+matriks
+matriks asli
+matriks baris
+matriks bujur sangkar
+matriks elementer
+matriks koefisien
+matriks kolom
+matriks kompleks
+matriks nol
+matriks pita
+matriks real
+matriks serupa
+matriks singular
+matriks taksingular
+medan
+mekanika kuantum
+memangkatkan
+membagi
+menarik akar
+menjabarkan
+mensurasi
+mental aritmetika
+metode simpleks
+metrik
+mikroliter
+minus
+modulo
+modulus
+modus
+monomial
+morfisme
+multiplikator
+nilai absolut
+nilai mutlak
+nilai rata-rata
+nilai tengah
+nilai tetap
+nilpoten
+nol fungsi
+nomogram
+nonagon
+norma matriks
+notasi sudut
+numerator
+oktonion
+operan
+operasi aljabar
+operasi baris elementer
+operasi biner
+operasi dasar
+operasi dasar aritmetika
+operasi kolom
+orde
+orde matriks
+ordinal
+ordinat
+ortogonal
+ortonormal
+pangkat
+parabola
+parabolik
+paraboloid
+paraboloid elipsis
+paraboloid hiperbolik
+parametris
+pecahan aljabar
+pekali
+pelenyapan
+pembagi
+pembagian integer
+pembeda
+pembilang
+penambah
+pendiagonalan
+pengalgoritmaan
+pengali
+pengoperasi
+pengurang
+pengurangan pecahan
+penjamin
+penjumlahan aljabar
+penjumlahan berbobot
+penjumlahan bersusun
+penjumlahan berulang
+penjumlahan deret
+penjumlahan kuadrat
+penjumlahan neptu
+penjumlahan pecahan
+penjumlahan terbobot
+penjumlahan vektor
+pentadekagon
+periode
+perkalian
+permukaan bola
+permukaan kerucut
+permukaan kerucut lingkar
+permukaan silindris
+permukaan tabung
+persamaan
+persamaan diferensial
+persamaan diferensial biasa otonom
+persamaan dirac
+persamaan integral
+persamaan linier
+perubah
+pi
+poligon
+polinomial
+prima nisbi
+prima relatif
+prisma
+prisma beraturan
+prisma segi empat
+prisma segi enam
+prisma segi lima
+produk
+prolat
+proyektum
+puncak sudut
+purata
+pusat berat segitiga
+pusat dalam segitiga
+pusat lengkung
+rank
+repeten
+resiprok
+ruang topologis
+ruang vektor
+rumus iterasi
+rumus matematika
+rumus penjumlahan
+sebangun
+segi banyak
+segitiga
+segmen
+segmen lingkaran
+sekan
+sektor
+selimut kerucut
+sentesimal
+sentroid
+sferoid oblat
+sferoid prolat
+sikloid
+simetri putar
+sistem biner
+sistem metrik
+skala panjang
+skala pendek
+skedastik
+spiral archimedes
+struktur aljabar
+substraksi
+subtraksi
+sudut
+sudut alas
+sudut berseberangan
+sudut depresi
+sudut elevasi
+sudut keliling
+sudut lurus
+sudut nol
+sudut puncak
+sudut pusat
+sudut sehadap
+sudut siku-siku
+suku
+sumbu mayor
+sumbu mendatar
+sumbu minor
+sumbu rotasi
+sumbu tegak
+survei
+tabel kebenaran
+tanda bagi
+tanda pangkat
+tanda sama (dengan)
+tangen
+tembereng
+tembereng tajam
+tensor
+teorema apit
+teorema nilai final
+teorema nilai inisial
+teorema pythagoras
+teori bilangan
+teori permainan
+tetragon
+tetrasi
+tinambah
+tinggi kerucut
+titik desimal
+titik kritis
+titik potong
+titik puncak
+topologi aljabar
+topologi diferensial
+trapesium
+trapesium sembarang
+trapesium siku-siku
+tres
+trinomial
+tripel
+trivial
+variabel diskret
+variabel kontinu
+vektor basis
+vektor eigen
+vektor nol
+vektor posisi
+vektor satuan
+x
+y
+yota
+z

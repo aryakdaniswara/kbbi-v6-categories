@@ -1,0 +1,698 @@
+adiabat basah
+adiabat jenuh
+adiabat kering
+aerometeograf
+aeronomi
+air higroskopik
+air higroskopis
+airep
+aktinogram
+aktinometri
+akustika meteorologi
+altokumulus
+altostratus
+amagram
+anakan
+analisis cuaca
+analisis isentropik
+analisis isotak
+analisis sinoptik
+analisis tekanan
+analobar
+anemoklinometer
+angin alobar
+angin anabatik
+angin antitriptik
+angin atas
+angin barat
+angin barat khatulistiwa
+angin barat laut
+angin barat utama
+angin bawah geostrofik
+angin bawah gradien
+angin gending
+angin geostrofik
+angin gradien
+angin gunung
+angin haluan ekuivalen
+angin ionosferik
+angin katabatik
+angin kencang
+angin kumbang
+angin lokal
+angin membujur ekuivalen
+angin menganan
+angin mengiri
+angin nyata
+angin pasat
+angin pasat tenggara
+angin pasat timur laut
+angin permukaan
+angin pilin
+angin resultan
+angin selatan
+angin siklostrofik
+angin silang
+angin supergeostrofik
+angin supergradien
+angin tenggara
+angin tenggara mandi
+angin timur
+angin timuran
+angin timuran ekuatorial
+angin timuran subtropis
+angin timuran tropis
+angin umum
+angin utara
+anomali iklim
+antipasat
+antisiklogenesis
+antisiklolisis
+antisiklon
+antisiklon panas
+antisiklon penghalang
+antisiklon subtropis
+arah angin
+ariditas
+arus dasar
+arus sentakan
+atmosfer bebas
+atmosfer ekuatorial
+atmosferisotermal
+aurora busur
+aurora pita
+aurora tirai
+awan aksesoris
+awan campur
+awan golak-galik
+awan jamur
+awan ledakan
+awan luncur
+awan pelangi
+badai elektrik
+badai fohn
+badai guntur
+badai guntur fron
+badai guntur fron dingin
+badai guntur konvektif
+badai guntur lataan
+badai guntur paras tinggi
+badai guntur perenggan
+badai hujan
+badai tropis
+balon layangan
+balon pandu
+banglas
+baratan
+barograf
+barogram
+baroklinik
+barometri
+barotropik
+batas iklim
+baur aliran
+belalai air
+beting
+bom hujan
+bora
+busur fajar
+busur lingkar zenit
+busur senja
+busur tangen
+cadar awan
+campur lingkungan
+celah fohn
+cincin uskup
+cirit bintang
+corong awan
+cuaca berlangsung
+cuaca ekstrem
+cuaca laik
+cuaca terang
+curahan
+curahan frontal
+curahan guntur
+curahan konvektif
+curahan orografik
+daerah adiabatik
+daerah fron
+daerah rendah isobar
+daerah tinggi isobar
+dalil resonansi
+dasar awan
+daur hidrologi
+daya angin
+daya pendinginan
+daya penguapan
+debu kosmis
+debu meteor
+depegram
+depresi
+depresi balik
+depresi bola basah
+depresi oklusi
+depresi orografis
+derajat hari
+diagram hamburan cahaya
+diagram kenyamanan
+diagram klimatologi
+difluensi
+dinding awan
+dinding debu
+dinding fon
+dingin
+doldrum
+efek umker
+elektrosonde
+elevasi titik nol barometer
+emanometer
+embun
+es bening
+estegram
+evaporivitas
+evaporograf
+evaporogram
+faktor keruh
+fase antarglasial
+fase luteal
+fibratus
+flokus
+fluks olak
+fluks radiasi
+fluks terang
+fraktus
+frigorigraf
+frigorimeter
+fron anabatik
+fron angin pasat
+fron antartik
+fron antartropik
+fron arktika
+fron baur
+fron dingin
+fron kata
+fron katabatik
+fron khatulistiwa
+fron mediterania
+fron oklusi
+fron semu
+fron tersamar
+fron utama
+galaksi redup
+galat pemepatan
+gambar kode
+gangguan atmosfer
+gangguan ionosfer mendadak
+garis angin
+garis badai
+garis divergensi
+garis isantesik
+garis kabur
+garis kemantapan
+garis ketebalan
+garis konvergen
+garis punggung
+garis sentakan
+gaya angin
+gaya koriali
+gebos garis
+gejala difraksi
+gelombang bawah angin
+gelombang dalam
+gelombang dingin
+gelombang fon
+gelombang fron
+gelombang harian
+gelombang kelembapan
+gelombang ledakan
+gelombang panas
+gelombang pegunungan
+gelombang tropopause
+geopotensial
+geopotensialmeter
+gerakan monsun
+geser angin
+geser angin horizontal
+golak-galik cuaca cerah
+goyah potensial
+gradien geotermal
+gumpal rambun
+higrogram
+higrometer titik ibun
+hilir angin
+hodograf
+hujan curah
+hujan ekstrem
+hujan pegunungan
+hujan plasma
+hujan sedang
+humilis
+ibun bening
+ibun kristal
+iklim arid
+iklim dataran tinggi
+iklim fisis
+iklim kering
+iklim kutub
+iklim ruangan
+iklim rumah kaca
+iklim suhu
+ilmu terapi klimatologi
+indeks daur
+indeks es
+indeks iklim
+indeks kersang
+indeks meridional
+indeks peredaran
+indeks sirkulasi
+indeks tekanan rendah
+indeks tekanan tinggi
+informasi meteorologi
+inklinasi angin
+inkus
+insolasi
+instrumentasi meteorologi
+integritas pembekuan
+intensitas curah hujan
+intensitas radiasi
+intensitas terang
+inti
+inti bakaran
+inti higroskopik
+inti kondensasi
+intortus
+inversi angin pasat
+inversi endap
+inversi golak-galik
+inversi permukaan
+inversi radiasi
+ionisasi atmosfer
+iradians
+irisasi
+isalobar
+isalohipse
+isanemon
+isoanomali
+isobar
+isobron
+isodin
+isofen
+isofet
+isogon
+isogram
+isohel
+isohyet
+isokeraunik
+isonefel
+isotak
+isoterm
+jalur kabut
+jalur konvergen antartropik
+jam sinoptik
+kabur
+kabut
+kantong ibun
+kapsul aneroid
+kekersangan
+kelembapan nisbi
+kemantapan dinamis
+kemantapan hidrodinamis
+kemantapan hidrostatis
+kemantapan mutlak
+kemarau basah
+kembang angin
+kemosfer
+kerucut angin ribut
+ketinggian kondensasi
+khatulistiwa termal
+kilat akar serabut
+kilat antar awan
+kimia atmosfer
+kimia ibun
+kiraan lanjutan
+klasifikasi awan
+klasifikasi genetik iklim
+klasifikasi iklim
+klimagram
+klimatograf
+klimatografi
+klimatologi aeronautika
+klimatologi dinamis
+klimatologi lingkar pohon
+klimatologi lingkungan
+klimatologi penerbangan
+klimatologi radar
+klimatologi sinoptis
+kode meteorologi
+kode sinoptis internasional
+koefisien pelemahan
+koefisien serap
+koefisien tukar
+kolom kerucut
+komponen ageostrofik
+komponen golak-galik
+komponen langkisau
+komposisi kimia curahan
+konfluens
+kongestus
+konimeter
+konveksi bebas
+konveksi paksa
+koreksi altimeter
+koreksi gaya berat
+koreksi kapasitas
+koreksi kapilaritas
+koreksi kepadatan
+koreksi suhu
+kotak barometer
+kotak kosmetik
+kropedometer
+kuasa meteorologi
+kumulonimbus
+kumulus
+kurva kenyamanan
+laju angin
+laju hujan
+laju penurunan adiabatik
+laju penurunan adiabatik kering
+laju penurunan suhu
+laju penurunan suhu autokonvektif
+laju penurunan super adiabatik
+laju puncak langkisau
+lakunosus
+lama insolasi
+lambang awan
+lambang meteorologi
+lampu sorot awan
+langit berawan
+langit berawan sedikit
+langit tenggiri
+lapisan apleton
+lapisan batas
+lapisan batas permukaan
+lapisan gesek
+lapisan isoterm
+lapisan kabur
+laporan pemburukan
+lelangit
+lembang tropis
+lembar awan
+lentikularis
+lidah dingin
+lingkup angin
+lintasan kilat
+lintasan vortisitas mutlak
+litometeor
+luah tanah ke awan
+mama
+mamatus
+massa udara takmantap
+mata badai
+mediokris
+mesopause
+mesosfer
+meter dinamik
+meter geopotensial
+metode beda terhingga
+metode usikan
+mikrobarograf
+mikrobarogram
+mikrobarovariograf
+mikroklimatologi
+mikrometeorologi
+mikropluviometer
+mintakat iklim
+mintakat kering
+mintakat lembap
+model barotropik
+model siklon
+modifikasi awan
+muka fron
+musim monsun
+mutatus
+nefoskop cermin
+nefoskop kisi
+neraca air
+neraca panas
+neraca radiasi
+netropause
+netrosfer
+nimbus
+nomor indeks internasional
+normal baku klimatologi
+observatori meteorologi
+oklusi dingin
+oklusi punggung
+okta
+olak
+opakus
+optika atmosfer
+palang awan
+palung
+palung angin baratan
+palung bawah angin
+palung dinamik
+palung khatulistiwa
+palung timuran
+panah angin
+panci penguapan
+pandu unting
+parameter kekasapan
+pelana
+pelangi bulan
+pelangi ganda
+pelangi sekunder
+pelangi utama
+pelepasan kabut
+pembentukan fron
+pembiakan awan
+penelusan
+pengamatan udara atas
+penggabungan butir air
+pengintian
+penguntingan
+perca kabut
+perenggan
+perlusidus
+permukaan isobarik
+permukaan isopiknik
+permukaan isosterik
+perubahan tipe
+peta analisis
+peta angin atas
+peta cuaca
+peta isalobar
+peta isentropik
+peta isobar
+peta ketebalan
+peta ketinggian tetap
+peta kontur
+peta kontur fron
+peta kontur ramalan
+peta prontur
+peta radiasi
+peta ramalan
+peta ramalan permukaan
+peta sinoptis
+peta sinoptis permukaan
+peta tekanan tetap
+peta udara atas
+pilus
+piranometer
+pirgeometer
+pirheliometer
+pola ketebalan
+polarisasi atmosfer
+polarisasi eliptik
+presipitasi
+presipitasi buatan
+prisma es
+profil angin
+profil kecepatan logaritmik
+profil lengas
+profil suhu
+psikrometer putar
+puncak meso
+punggung tekanan
+pusat analisis
+pusat prakiraan
+pusat ramalan
+pusat tindak
+radarsonde
+radiasi angkasa ke bawah
+radiasi atmosfer
+radiasi benda hitam
+radiasi bumi
+radiasi efektif
+radiasi efektif malam
+radiasi gelombang panjang
+radiasi global
+radiasi isotropik
+radiasi korpuskuler
+radiasi kosmik
+radiasi langit
+radiasi luar atmosfer
+radiasi surya baur
+radiasi surya langsung
+radiasi surya pantul
+radiasi total
+radiasi total ke bawah
+radiasi ultra ungu
+radiatus
+radioaktivitas buatan
+radioatmometer
+radiometeorologi
+radioteodolit
+rawin
+rawinsonde
+reduksi suhu ke permukaan laut
+reduksi tekanan ketinggian baku
+reflektometer
+refraksi atmosfer
+retrogresi
+rezim
+roketsonde
+rotasi antisiklonik
+rumpun depresi
+saluran radio
+sambaran perintis
+sangkar meteorologi
+sangkar termometer
+seilometer
+seilometer laser
+sektor awan
+sektor panas
+sel konveksi
+sel meridional
+selang waktu khusus dunia
+selometer
+sembul ibun
+sepoi kuat
+sepoi lemah
+sepoi lembut
+sferik
+sigmet
+siklogenesis
+siklolisis
+sinar balik
+sinoptik
+sirip angin
+sirokumulus
+sirostratus
+sirus
+sirus palsu
+sistem awan
+sistem awan depresi
+sistem awan guntur
+sistem fron
+sistem koordinat teta
+skala angin beaufort
+skala gaya angin
+skala langit biru linke
+skala pirheliometer
+skala pirheliometer internasional
+skala suhu celcius
+skala suhu fahrenheit
+solarigraf
+sonde
+spektrum
+spektrum fajar senja
+spektrum golak-galik
+spektrum pusar
+spesifikasi kode
+spiral ekman
+stasiun aerologi
+stasiun cuaca otomatik
+stasiun iklim
+stasiun perairan
+stasiun radiosonde
+stasiun rawinsonde
+stasiun sinoptis
+stasiun sinoptis permukaan
+stasiun tambahan
+stasiun udara atas
+stratokumulus
+stratus
+subsidens
+subtropik
+suhu antarbulan
+suhu antarhari
+suhu bola basah termodinamik
+suhu bola kering
+suhu ekstrem
+suhu harian rata-rata
+suhu kondensasi
+suhu maksimum
+suhu maksimum bulanan
+suhu maksimum bulanan mutlak
+suhu maksimum harian
+suhu minimum
+suhu minimum bulanan
+suhu minimum bulanan mutlak
+suhu minimum harian
+suhu minimum rumput
+suhu permukaan laut
+sumbu antisiklon
+sumbu depresi
+sumbu palung
+sumbu punggung
+tabel higrometer
+tabel koreksi barometer
+tabel reduksi barometer
+tabung bourdon
+tabung isobarik-isosterik
+tahap es
+tahap kering
+taifun
+takometer
+talam matahari
+tara lengas
+tefigram
+tekanan
+teleskop inframerah
+tenang khatulistiwa
+teodolit rekam
+teori fron
+teori konveksi pembentukan silikon
+termometer air hitam
+termometer bimetal
+termometer bola basah
+termometer bola kering
+termometer cairan
+termometer maksimum
+termometer minimum
+termometer tahanan
+termometer tanah
+tinggi dasar awan
+tipe iklim
+tipe iklim mediteran
+tipe sinoptis
+tipe tanah aklimat
+titik babinet
+titik gading
+titik hiperbolik
+titik ibun
+titik inti surya
+titik netral
+topan
+turus bulan
+udara
+udara bahari
+udara fon
+udara mantap
+ufuk debu
+ulur-ulur
+undulatus
+unsinus
+unsur iklim
+variasi tekanan mikro
+vektor angin
+waktu baku antara
+waktu baku utama
+waktu pelemahan langkisau
+waktu pembentukan langkisau
+waktu sinoptik
+wilayah informasi penerbangan
+wilayah konveksi
+wilayah pisah
+zona iklim

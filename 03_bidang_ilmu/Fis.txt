@@ -1,0 +1,1241 @@
+abampere
+abcoulomb
+aberasi bola
+aberasi kromatis
+aberasi optik
+aberasi sferis
+aberasi warna
+abrasif
+absorbans
+absorbansi
+absorben
+absorptans
+absorptivitas
+adaptor
+adhesi
+adiabat
+adiabatik
+adiaktinik
+adiarus
+adihablur
+adikekisi
+adion
+adipenghantar
+admitans
+aelotropik
+aerial
+aeroakustika
+aerodinamika
+aeroelastika
+aerofisika
+aerologi
+aeromagnetik
+aeromekanika
+aerostatika
+agen radioaktif
+aki
+akselerasi kuantum
+akseptor
+aksi kuantum
+aktivitas optis
+alat optik
+albedo
+alfa
+aliran
+aliran bergolak
+aliran berlapis
+aliran massa
+aliran plasma
+aliran turbulen
+alniko
+alokromi
+alternator
+ambang geiger
+ammeter
+ammeter jam
+amplifier
+amplifikasi gas
+amplitudo
+amplitudo getaran
+amplitudo probabilitas
+amplitudo sinyal
+aneroid
+angka barion
+angka bias
+anihilasi
+anisotropik
+anode
+anode berputar
+antena dwikutub
+antibarion
+anticadar
+antiferomagnetik
+antikatode
+antikorona
+antipartikel
+antiresonans
+antisimpul
+antizarah
+anyon
+apeks
+apertometer
+apkromat
+apokromatik
+apostilb
+aras
+aras tenaga
+arus
+arus gelap
+arus kolektor
+arus konvensional
+arus rangga
+asas archimedes
+asas black
+asbut
+asterisme
+astigmometer
+atenuasi
+atom berat
+autoignisi
+autoionisasi
+autokolimasi
+autokolimator
+autokonvolusi
+automorf
+autonisasi
+autorotasi
+availabilitas
+ayunan
+azeotrop
+bagan benda bebas
+bahan galian nuklir
+bahan nuklir
+bahan paramagnetik
+bahang
+bandul
+bandul foucault
+bangku optis
+bar
+barion
+batas elastik
+batas lenting
+becquerel
+bel
+benda hitam
+benda putih
+benda tegar
+benturan
+berat
+berat jenis
+berkas cahaya
+berkas elektron
+besaran pokok
+besaran skalar
+besaran turunan
+besaran vektor
+bias
+bidang masuk
+bidang miring
+bikonveks
+bilangan catu
+bilangan gelombang
+bilangan kuantum
+bilangan mach
+bimetal
+bipolar
+biprisma
+blok katrol berganda
+blok rantai
+bobot jenis
+boson higgs
+boson tolok
+brakistokron
+buai
+busur listrik
+cahaya
+cahaya koheren
+cahaya kosmik
+cahaya monokromatik
+cahaya neutron
+cahaya putih
+cahaya takkoheren
+cahaya tampak
+cair
+cairan spin kuantum
+campuran eutektik
+canggaan
+catu cahaya
+cecairan
+cerat
+cermin bola
+cermin cekung
+cermin lengkung
+cermin sferis
+cincin newton
+corong lipat
+dampak
+daur
+daya apung
+daya dispersi
+daya hantar
+daya kuda
+daya kuda poros
+daya kuda rem
+daya listrik
+daya mekanis
+daya penyinaran
+daya suai
+daya tolak magnet
+daya urai
+debit fluida
+deklinasi
+dekoherensi
+dekoherensi kuantum
+dekohesi kuantum
+densitas energi
+derajat
+derajat kebebasan
+deran
+derau
+deret brackett
+deret lyman
+deret paschen
+deret pfund
+deret radioaktif
+desibel
+desorpsi
+deteksi partikel
+detektor neutrino
+detektor partikel
+detektor radiasi
+deuterium
+deviasi
+diamagnetik
+diamagnetisme
+diameter aerodinamik
+diaterman
+diatermik
+dielektrik
+difluens
+difraksi
+difraksi cahaya
+difraktometri
+difusi
+digesti
+dikroisme
+dilasi
+dilatasi waktu
+dinamika
+dinamika rotasi
+diode zener
+dioptri
+dioptri prisma
+disintegrasi
+dispersi
+dispersi cahaya
+dispersi gelombang
+distorsi
+distribusi kunci kuantum
+donor
+dorongan
+dosis
+dosis radiasi
+dualisme
+dualitas gelombang partikel
+dualitas gravitasi kisi
+dunia paralel
+dwikutub
+dwisumbu
+edaran
+efek casimir
+efek compton
+efek coriolis
+efek doppler
+efek fotoelektrik
+efek fotolistrik
+efek hall kuantum
+efek paduan
+efek schwinger
+efek zeemann
+efek zeno kuantum
+efisiensi mesin
+efusi
+eigenfrekuensi
+eksitasi
+eksotermik
+ekspansi
+ekspansi adiabatik
+elektret
+elektrodinamika
+elektrolit
+elektrolit polimer
+elektromagnet
+elektromagnetik
+elektromagnetisme
+elektrometer
+elektron
+elektron bebas
+elektron ikatan
+elektron konkulasi
+elektron volt
+elektrooptika
+elektroplating
+elektrostatik
+elemen
+elevasi titik didih
+elipsoid
+elipsoid fresnel
+elipsoid indeks
+elipsometer
+elipsometri
+emanasi
+emisi
+emisi nuklir
+emisivitas
+emitans
+emitans radian
+endotermis
+energi
+energi atom
+energi diskret
+energi eksitasi
+energi fusi
+energi ikatan
+energi inti
+energi kinetik
+energi kritis
+energi planck
+energi potensial nuklir
+ensambel statistik
+entalpi
+entropi
+entropi keterjeratan
+entropi keterjeratan kuantum
+entropi kuantum
+epidiaskop
+epitaksi
+equilibrum
+erg
+ergodik
+erotan
+etalon
+faktor kehilangan
+faktor rugi
+farad
+fatik
+femtosekon
+fenit
+fenomena gunung es
+fenomena kuantum
+fermion
+fermion majorana
+feroelektrik
+feroelektrisitas
+feromagnetik
+feromagnetisme
+fertil
+filter
+fisi
+fisi nuklir
+fisi termal
+fisika kuantum
+fisil
+fluida
+fluida statis
+fluks
+fluks energi
+fluks foton
+fluks magnetik
+fluks magnetik kuantum
+fluks neutron
+fluktuasi kuantum
+fluktuasi vakum
+fluoresens
+foil aktivasi
+fokus
+fokus utama
+fonon
+formalisme lagrangian
+fotodetektor
+fotodiode
+fotoelektron
+fotoemisi
+fotofisi
+fotoforesis
+fotoionisasi
+fotokonduksi
+fotokonduktivitas
+fotokonduktor
+fotologi
+fotometri
+foton
+foton gama
+fotoneutron
+fotonika
+fototransistor
+fraksi berat
+fraksi massa
+frekuensi alami
+frekuensi ambang
+frekuensi radio
+fugasitas
+fusi
+fusi nuklir
+gama
+garis absorpsi
+garis cacak
+garis gaya listrik
+garis normal
+garis serapan
+gas
+gaya
+gaya berat
+gaya coriolis
+gaya gesek
+gaya gesek kinetis
+gaya gesek statis
+gaya inti
+gaya normal
+gaya pencukup
+gaya sentripetal
+gaya tekan
+gejala optis
+gelombang beta
+gelombang bunyi
+gelombang elektrik
+gelombang elektromagnetik
+gelombang gama
+gelombang longitudinal
+gelombang mekanik
+gelombang stasioner
+gelombang transversal
+generator homopolar
+geolistrik
+geomagnetik
+geomagnetisme
+geometri fisik kuantum
+geometri kuantum
+gerak  jatuh  bebas
+gerak lurus berubah beraturan
+gerak melingkar beraturan
+gerak parabola
+gerak translasi
+gerak vertikal ke atas
+girodinamika
+girokompas
+glbb
+gluon
+goniofotometer
+gradien potensial
+gradien sekawan
+graduasi
+grafik peluruhan
+gravitasi kisi
+gravitasi kuantum
+graviton
+gray
+guling
+hadron
+hambatan bentuk
+hambatan gesek
+hamburan
+hamburan brillouin
+hamburan cahaya
+hamburan compton
+hamburan ionosfer
+hamburan rayleigh
+hamburan troposfer
+hampa gravitasi
+hantaran
+harmonik
+helimagnetisme
+helisitas
+hemiholohedral
+hidroakustik
+hidrodinamis
+hidroelektrik
+hidroelektrisitas
+hidrofotometer
+hidrokinematika
+hidrokinetika
+hidroklorida
+hidromagnetik
+hidromekanika
+hidrostatik
+hidrostatis
+higroskopis
+hiperon
+hipersonika
+histerisis
+holmium laser
+holografi
+homogenitas ruang
+homogenitas ruang dan waktu
+homogenitas waktu
+hubungan entropi
+hukum abney
+hukum arus kirchhoff
+hukum bernouilli
+hukum boyle
+hukum coulomb
+hukum faraday
+hukum hidrostatik
+hukum kekekalan energi
+hukum kekekalan momentum
+hukum kelembapan
+hukum kirchhoff
+hukum kuantum
+hukum lenz
+hukum newton
+hukum ohm
+hukum pascal
+hukum pembiasan
+hukum pembiasan snellius
+hukum planck
+hukum tegangan kirchhoff
+humiditas
+idiomorf
+ikatan kimia
+ikutan
+ilian
+iluminometer
+imbangan hidrofil-lipofil
+imbas
+impedans
+impedans bioelektrik
+impuls
+indeks bias
+indeks bias absolut
+indeks bias medium
+indeks bias mutlak
+indeks bias relatif
+indeks refraktif
+induksi magnetik
+induktans
+induktansi diri
+inersia
+inframerah
+ingsutan fase
+injap
+injeksi udara
+instalasi nuklir
+instrumentasi nuklir
+insulator topologis
+intensitas cahaya
+intensitas gelombang
+intensitas kompensasi cahaya
+interaksi gravitasi
+interaksi lemah
+interaksi pertukaran kuantum
+interferens
+interferensi
+interferensi antarsimbol
+interferensi cahaya
+interferensi gelombang
+interferensi kuantum
+interferensi radio industri
+intermodulasi
+inti
+inti atom
+inti radioaktif
+invarian
+invarian kuantum
+inversi simultan
+ion
+ionisasi
+isentropik
+isobar
+isobarik
+isodosis
+isofotometer
+isogir
+isokor
+isokorik
+isolator
+isometrik
+isomorfisme
+isopiestik
+isoterm
+isotermal
+isotop
+isotop radioaktif
+isotop stabil
+isotropik
+isovolumik
+jangkar
+jangkau
+jarak apsidal
+jarak bebas purata
+jarak ikatan
+jatuh bebas
+jatuh tekanan
+jebakan elektron
+jejak kabut
+jeluk penetrasi
+jembatan wheatstone
+jet
+joule
+kaidah amagat-leduc
+kakas
+kakas emparan
+kakas memusat
+kala edaran
+kalor
+kalor evaporasi
+kalor spesifik
+kalori
+kandela
+kanto
+kaon
+karah
+karbon anorganik
+karbon organik
+katalisis kuantum
+katalisis neutron
+katalisis nuklir
+katenari
+katode
+katrol bebas
+katrol lepas
+kavitasi
+keadaan kuantum
+keadaan tereksitasi
+kecepatan lepas
+kecepatan rata-rata
+kecepatan sesaat
+kedalaman penyerapan
+kejenuhan
+kejutan termal
+kekuatan tensil
+kelembaman
+kelentingan
+keloelektrovolt
+kelompok renormalisasi
+kelopak elektron
+kendala
+keporian
+kerangka acuan
+kerangka acuan lembam
+kerapatan neutron
+kerapatan optik
+kerjang udara
+kerlog
+keseimbangan
+kesetimbangan hidrostatis
+keter fase
+keteradihantaran
+keterikatan kuantum
+keterikatan neutron
+ketidakpastian heisenberg
+ketidakstabilan inti
+kinematika partikel
+kinerja nuklir
+kinetik
+kisi
+klistron
+kohesi
+kolektor
+kolektron
+kolimasi
+kolimator
+kolorimetri
+komplementaritas
+kompresi adiabatik
+komputasi kuantum topologis
+kondensasi
+kondensasi bose-einstein
+kondensator
+kondensi
+konduktivitas kuantum
+konduktivitas listrik
+konduktor kuantum
+konoskop
+konsentrasi energi kuantum
+konsentrasi neutron
+konsol
+konstantagravitasi
+kontrol berurutan
+konvolusi
+koreksi radiasi
+kotak hitam
+kovalensi
+kriogen
+kriogenik
+kriogenika
+kriotron
+kriptohablur
+kristalit
+kristalogram
+kritikalitas
+kritikalitas kuantum
+krominans
+kromodinamika
+kromodinamika kuantum
+kuantifikasi energi
+kuantum nonlokalitas
+kuantum teleportasi
+kuark
+kuasipartikel
+kuat arus listrik
+kuat pampat
+kucing schrödinger
+kuncup pancur
+kurva pendinginan
+kurva sekat
+labil
+ladar
+laifan
+laju alir
+laju peluruhan
+laju rambat
+lambert
+lampu kilat
+landai tekanan
+lanturan
+lanturan cahaya
+lapisan bahang
+lapisan batas
+lapisan inversi
+laser
+layangan
+lelah
+lengan kopel
+lengan momen
+lenggok
+lenggut
+lensa cekung
+lensa cembung
+lensa kontak
+lensa tempel
+lensa tipis
+lentur rangkap
+lepton
+level energi
+librasi
+lilitan
+lintasan
+listrik dinamis
+listrik nirkabel
+listrik statis
+lubang
+lucutan
+lumen
+luminans
+lup
+magnetoelastisitas
+magnetoelektrodinamika
+magnetoelektrositas
+magnetohambatan
+magnetoketerhantaran
+magnetostriksi
+magnetotaksis
+magnetron
+makrofisika
+makrokeadaan
+manometer
+massa
+massa atom relatif
+massa udara basah
+massa udara kering
+materi
+medan
+medan gravitasi
+medan higgs
+medan kuantum
+medan listrik
+medan listrik nuklir
+medan magnet
+medan magnet eksternal
+medan potensial kuantum
+megajoule
+megaohm
+megavolt
+mekanika
+mekanika bohmian
+mekanika statistik
+mekanika terapan
+membias
+memindai
+meniskus
+meson
+metalograf
+metamaterial
+metapusat
+metode kuantum monte carlo
+metrik densitas
+metrik gelombang
+mikroampere
+mikrobar
+mikrodifraksi
+mikrofisika
+mikrofon dinamik
+mikrofon karbon
+mikrofon kristal
+mikrofon laser
+mikrofon pita
+mikrogelombang
+mikrointerferometer
+mikrokristal
+mikrosegregasi
+milibar
+modulasi amplitudo
+modulus young
+molekul
+momen
+momen dipol
+momen inersia
+momen magnetik
+momen tahanan
+momentum
+momentum relativistik
+monoatom
+monofokal
+monofonik
+monoklinik
+monokristalin
+monokromasi
+muai panjang
+muatan
+multimesta
+multivibrator
+mulut
+muon
+nanofiltrasi
+nanoskopis
+neraca
+neutrino
+neutron
+neutron cepat
+neutron fisi
+neutron lambat
+nirgesekan
+nol absolut
+nomor atom
+nomor massa atom
+nonkonservatif
+nukleon
+nukleus
+nutasi
+objek
+objektif
+oktaf
+oktode
+okular
+okuler
+omegatron
+onggok
+opasitas
+opdar
+optik
+optika geometrik
+optis
+optoelektronika
+optoisolator
+orbital
+ortoheksagonal
+ortohelium
+ortohidrogen
+ortonormalitas
+ortorombik
+osilasi
+osilasi neutrino
+osilator
+osilator harmonik kuantum
+osilator kuantum
+osiloskop
+osmosis balik
+padat
+paksi
+panas laten
+panas penguapan
+panjang gelombang
+paradoks teman wigner
+parahidrogen
+parhelion
+parhelium
+partikel bebas
+partikel bermuatan
+partikel higgs
+partikel subatom
+partikel virtual
+pegun
+pelarut radiokimia
+pelayangan
+peluruhan beta
+pemancar alfa
+pemancar beta
+pemantulan baur
+pemantulan neutron
+pemantulan radiasi
+pemantulan sempurna
+pemantulan teratur
+pembangkit tenaga nuklir
+pembangkit tenaga termonuklir
+pembauran
+pembelahan nuklir
+pembiasan cahaya
+pembiasan ganda
+pemisahan isotop
+pemuaian
+penangkap neutron
+penangkapan neutron
+pencitraan neutron
+pendaran
+penerowongan kuantum
+penetron
+penganalisis
+pengatoman
+pengayaan uranium
+pengereman magnetik
+penggabungan gelombang kuantum
+penggilingan kriogenik
+penghapus kuantum
+penguat citra
+pengujian hidrostatis
+pengukur radiasi
+perangkap elektron
+percepatan fermi
+perhimpunan listrik
+periode
+periodik
+permukaan ekipotensial
+perovskit
+persamaan bateman
+persamaan schrodinger
+persilangan neutron
+perturbasi
+peta nuklida
+piezoelektrik
+piezoelektrisitas
+pikofarad
+pinakoid
+pion
+piroelektrik
+piroelektrisitas
+pirokonduktivitas
+pita energi
+pita konduksi
+pita valens
+pita valensi
+pitot
+plasma
+plasmon
+pleokroisme
+pleomorfisme
+poise
+poiseuille
+pola difraksi
+polarimetri
+polarisasi antena
+polarisasi cahaya
+polarisasi elips
+polarisasi horizontal
+polarisasi linear
+polarisasi melingkar
+polarisasi sirkular
+polariskop
+poliatomik
+polihedron
+polikristalin
+polikroisme
+polimorf
+polimorfisme
+polisilikon
+politipisme
+pompa difusi
+positif
+positron
+positronium
+potensial
+potensial termodinamika
+potensial zeta
+poundal
+prakristalisasi
+presesi
+prinsip bernoulli
+prinsip born
+prinsip holografis
+prisma
+prisma abbe
+prisma optik
+prisma romboid
+probabilitas kuantum
+probabilitas peluruhan
+propulsi
+propulsi jet
+proses adiabatik
+protium
+proton
+pseudoskalar
+psikometri
+pual
+pual garis
+puntiran
+pupil keluar
+pupil masuk
+pusa
+pusa linear
+pusa sudut
+pusat optis
+putaran kiri
+radians
+radiasi
+radiasi beta
+radiasi cerenkov
+radiasi cherenkov
+radiasi elektromagnetik
+radiasi halangan hitam
+radiasi hambur
+radiasi hawking
+radiasi kuantum
+radiasi latar belakang
+radiasi pengion
+radiasi sekunder
+radiasi terionisasi
+radioaktivitas
+radioautograf
+radiogenik
+radiografi
+radiografi kuantum
+radioisotop
+radiometri
+radiotoksisitas
+rantai peluruhan
+rasio penyetabil
+rawat panas
+rayleigh
+reaksi berantai
+reaksi nuklir
+reaksi nuklir termal
+reaksi penggabungan
+reaktor air berat
+reaktor cepat
+reaktor nuklir
+refraksi
+refraksi ganda
+regangan
+regelasi
+reionisasi
+relai
+relativistik
+relativitas khusus
+relativitas kuantum
+relativitas umum
+repulsi
+resistans
+resistans pengetanahan
+resistans termal
+resolusi kontras
+resolusi spasial
+resonansi
+resonansi kuantum
+resonansi neutron
+resonansi plasmon
+retentivitas
+retikel
+retikulum
+reverberasi
+rona
+rotor
+ruang
+ruang bebas
+ruang benda
+ruang hilbert
+ruang waktu
+saturasi
+semikonduktor ekstrinsik
+semikonduktor intrinsik
+sensor cahaya
+sensor inframerah
+sensor optik
+sensor ultrasonik
+sentrifugal
+sentripetal
+serat optik
+serpihan nuklir
+sesatan
+sferometer
+sferulit
+sibakan
+sievert
+sifat partikel
+siklotron
+siklus carnot
+simpangan
+simulasi kuantum
+simultanitas
+sinabar
+sinar alfa
+sinar beta
+sinar biasa
+sinar datang
+sinar gama
+sinar krepuskular
+sinar luar biasa
+sinaran
+singularitas gravitasi
+sinkroton
+sintilator
+sistem banyak partikel
+sistem kuantum
+sistem kuantum terbuka
+sistem mekanis
+sistem optik
+skala kuantum
+skala planck
+skalar
+solenoid
+soliton
+sonifikasi
+sonokimia
+spagetifikasi
+spalasi
+spektrografi
+spektroheliograf
+spektrohelioskop
+spektropolarimeter
+spektroskop
+spektroskopi nuklir
+spektroskopi penguraian
+spektrum
+spektrum absorpsi
+spektrum bunyi
+spektrum elektromagnetik
+spektrum kasat mata
+spektrum kilat
+spektrum kontinu
+spektrum matahari
+spektrum molekul
+spektrum neutron
+spektrum putaran
+spektrum radiasi
+spesies reaktif oksigen
+spin
+spin kuantum
+spin lingkaran
+spin partikel
+spinor
+stalagmometri
+statika
+stator
+stauroskop
+stereokomparator
+stigmatik
+stilb
+stoikiometri
+stoikiometrik
+striasi
+suhu termodinamika
+sumber gama
+sumber garis
+sumber neutron
+sumber titik
+sumbu optis
+superfluiditas
+superkonduktivitas
+superposisi
+superposisi kuantum
+supersaturasi
+supersimetri
+supremasi kuantum
+swaimbas
+swaserapan
+tabung lucutan gas
+takmurnian
+talunan
+tegangan geser
+tegangan induksi
+tegangan normal
+teman wigner
+tenaga elektromotif
+tenaga gerak
+teorema bell
+teori busa spin
+teori chern-simons
+teori dawai
+teori kuantum
+teori kumulatif
+teori lintasan kuantum
+teori medan kuantum
+teori medan kuantum topologis
+teori perkolasi kuantum
+teori permukaan kuantum
+teori pertukaran
+teori variabel tersembunyi
+teras
+terbang
+terionisasi
+termionika
+termodinamis
+termoelektrik
+termoelektrisitas
+termoelektron
+termokopel
+termolistrik
+termometri
+ternari
+tesla
+tetrode
+tintometer
+tiratron
+tiristor
+titik api
+titik dekat mata
+titik embun
+titik jauh mata
+titik jendal
+titik kuantum
+titik panas
+titik pegangan
+titik pumpun
+titik tembus
+titik utama
+tokamak
+tolok regangan
+torka
+toroid
+transduser
+transfer elektron
+transfer panas taktunak
+transformasi fourier kuantum
+transisi
+transisi energi
+transisi fase kuantum
+transisi rotasi
+transistor
+transkonduktans
+transmisometer
+transmitans
+transmitansi
+transmitivitas
+transmutasi isotop
+transpor elektron
+transpor pasif
+transpor sedimen
+tribometer
+trifokal
+tumpuan jepit
+tumpuan rol
+turbulens
+turbulensi
+ultrafilter
+ultrasonik
+untai
+usak massa
+varaktor
+variansi
+variometer
+varistor
+venturi
+venturimeter
+verteks
+viskoelastisitas
+watt jam
+weber
+yagi
+zadat
+zalir
+zantara
+zarah bebas
+zat radioaktif
+zona fresnel

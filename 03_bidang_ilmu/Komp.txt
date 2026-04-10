@@ -1,0 +1,1171 @@
+abstraksi
+abstraksi data
+ada
+administrator pangkalan data
+adp
+adts
+agen pengguna
+akal imitasi
+akses
+akses informasi
+akses jauh
+akses ke berkas
+akses ke data
+akses lokal
+akun
+akurasi data
+alamat
+alamat jaringan
+alamat riil
+alamat virtual
+alas tetikus
+algol
+algoritma efisiensi
+algoritma genetik
+algoritma pembelajaran
+algoritma pembelajaran mendalam
+alias
+alih paket
+alir aferen
+aljabar relasional
+analis pangkalan data
+analis sistem komputer
+analisis alir tik
+analisis berorientasi objek
+analisis cakupan
+analisis data raya
+analisis klasifikasi
+analisis kualitas
+analisis perilaku
+analisis persyaratan dan spesifikasi
+analisis prediktif
+analisis sentimen
+analisis sistem
+analisis sistem ti
+analisis terstruktur
+analisis transaksi
+analisis transformasi
+analog
+ancaman siber
+android
+angka biner
+anomali data
+antarmuka
+antarmuka manipulasi langsung
+antarmuka manusia-mesin
+antarmuka pengguna
+antarmuka pengguna grafis
+antarmuka pengguna keahlian beragam
+antarmuka pengguna suara
+antarmuka sistem operasi portabel
+antarmuka teks
+antivirus
+antrean pekerjaan
+api
+apk
+aplikasi bisnis
+aplikasi kecerdasan buatan
+aplikasi kencan
+aplikasi misi kritis
+aplikasi olah pesan
+aplikasi pesan singkat
+aplikasi tangkap data
+aplikasi terkembang pengguna
+arsitektur jaringan
+arsitektur sistem informasi
+arsitektur terbuka
+asali
+asinkron
+atribut bekas
+audit
+audit internal
+augmentasi
+augmentasi data
+augmentasi kecerdasan
+autoperajah
+awakutu
+bagan
+bagan alir
+bagan alir program
+bagan batang
+bagan nassi-shneiderman
+bahasa
+bahasa algoritmik
+bahasa aplikatif
+bahasa aras tinggi
+bahasa berorientasi aplikasi
+bahasa definisi data
+bahasa diinterpretasikan
+bahasa generasi kedua
+bahasa generasi keempat
+bahasa generasi kelima
+bahasa generasi ketiga
+bahasa generasi pertama
+bahasa grafik
+bahasa hibrida
+bahasa komputer
+bahasa level rendah
+bahasa level sangat tinggi
+bahasa level tinggi
+bahasa markah
+bahasa markah hiperteks
+bahasa mesin
+bahasa pembangkit aplikasi
+bahasa pemrograman
+bahasa pemrograman level tinggi
+bahasa pemrograman prosedural
+bahasa pemrograman rakit
+bahasa pengguna akhir
+bahasa peringkat tinggi
+bahasa perintah
+bahasa permintaan
+bahasa portabel
+bahasa program
+bahasa prosedural
+bahasa rakit
+bahasa rakitan
+bahasa simbolik
+bahasa tingkat rendah
+bank memori
+baris kode
+beranda
+berkas
+berkas induk
+berkas komputer
+berkas rekam cadang
+berkas zip
+berselancar
+birih
+bit
+bitmap
+blog
+bola jejak
+bug
+buram referensial
+bus
+but
+cad
+cakram keras
+cakram kompak
+cakram liuk
+cakram magnetik
+cakram optik
+cakram optis
+cakram padat
+cakram target
+cakram tetap
+cek meja
+cek paritas
+cip
+curahan layar
+data
+data alfanumerik
+data analog
+data balikan
+data digital
+data elektronik
+data kategoris
+data kendali program
+data langsung
+data latihan
+data numerik
+data penunjuk
+data pribadi
+data raya
+data warisan
+daun
+daur hidup pengembangan sistem
+daur hidup sistem
+defragmentasi
+dekode
+dekomposisi
+dendrogram
+desain
+desain adaptif
+desain antarmuka pengguna
+desain atas-bawah
+desain awal
+desain bawah-atas
+desain berbantuan komputer
+desain berorientasi objek
+desain eksperimental
+desain evolusioner
+desain fungsional
+desain inkremental
+desain iteratif
+desain modular
+desain program
+desain sistem
+desain terinci
+desain terstruktur
+destop
+deteksi wajah
+diagram alir data (dfd)
+diagram alir logika
+diagram blok
+diagram warnier-orr
+dimensi sebuah matriks
+direktori
+direktori dua tingkat
+direktori level tunggal
+direktori rumah
+direktori saat ini
+diska magnetik
+divisi
+dokumen
+dokumentasi
+dokumentasi pengguna
+dorongan data
+dpi
+dukungan bahasa alami
+dunia virtual
+editor
+edp
+eksepsi
+ekspor
+ekspresi logika
+ekstensi domain
+ekstensi nama berkas
+ekstensi peramban
+ekstraksi informasi
+elektrostatis
+elemen gambar
+emotikon
+emulator
+enkripsi data
+enkripsi kriptografi
+entri data
+evaluasi
+evaluasi dinamik
+fail komputer
+fail terkunci
+faktor sukses kritis
+fitur
+fitur pencarian
+folder
+folksonomi
+fon berkait
+fon nirkait
+fon turunan
+format berkas
+format internal
+format kode sumber
+format numerik
+format tanggal
+format waktu
+formulir
+fotokonduktif
+fungsi pustaka
+fungsionalitas perangkat lunak
+galat
+galat keras
+galat logika
+galat paritas
+galat sintaks
+galat transkripsi
+galat transmisi
+galat transposisi
+gamifikasi
+garis simpleks
+generasi bahasa alami
+generasi komputer
+generik
+gerbang
+gerbang keluar
+gif
+gigabita per detik
+gim daring
+gim permainan peran
+grafik
+grafik bisnis
+grafik kolom
+gudang data
+hak akses
+hibernasi
+himpunan instruksi
+hipermedia
+hipertaut
+hos
+html
+hub
+hubungan berkas
+hukum fitts
+hukum hick
+hukum jakob
+hukum miller
+hukum tesler
+identifikasi nomor otomatis
+ikal takterhingga
+ikon
+inode
+instalasi
+instalasi program
+instruksi
+instruksi mesin
+integrasi
+integrasi data
+integrasi sistem
+integrasi skala besar
+intelijen pasar
+interaksi manusia-komputer
+interaktif
+interaktivitas
+internet
+interoperabilitas
+interpreter
+intersepsi
+interupsi
+interupsi cek program
+ip
+irc
+iterasi
+jabat tangan
+jalur
+jalur sewa
+jaringan
+jaringan area lokal
+jaringan area luas
+jaringan area metropolitan
+jaringan bintang
+jaringan bus
+jaringan cincin
+jaringan digital layanan terintegrasi
+jaringan kawasan lokal
+jaringan komputer
+jaringan saraf tiruan
+jaringan tambah nilai
+java
+jejak
+jejaring
+jembatan
+jendela
+jendela aktif
+jendela galat
+jendela melayang
+jendela mengambang
+jendela perintah
+jpeg
+judul akuan
+jurnal
+kabel fisik
+kabel koaksial
+kabel pintar
+kabel serat optik
+kait
+kamera digital
+kamus data
+kamus data aktif
+kamus data umum
+kanal b
+kanal d
+kanal kelas suara
+kanal pembawa
+kanal pita dasar
+kanal pita lebar
+kapasitas kanal
+kapasitas maksimum
+karakter
+karakter permintaan
+kartu adaptor jaringan
+kartu akselerator
+kartu antarmuka jaringan
+kartu ekspansi
+kartu grafis
+kartu memori
+kartu memori pc
+kartu pemercepat
+kartu penebukan
+kartu pintar
+kartu tumbuk
+kaset audio
+kata kunci
+kata lewat
+katalog
+katrij
+katrij tinta
+kb
+kbps
+keamanan berkas
+keamanan data
+keamanan internal
+keamanan komputer
+kecepatan
+kecepatan denyut
+kecepatan garis
+kecepatan pemrosesan komputer
+kecepatan prosesor
+kecepatan saluran
+kecepatan tinggi
+kecerdasan buatan
+kecerdasan buatan adaptif
+kecerdasan buatan umum
+kegagalan perangkat lunak
+kehilangan sinyal
+kejahatan komputer
+kekutu
+kelambatan
+kelas
+kelas alamat
+kelas turunan
+kelenturan logika
+keluarga
+keluku
+kemacetan
+kendali alir
+kendali aplikasi
+kendali berbasis model
+kendali cerdas
+kepala
+keping
+keping tembaga
+keputusan otomatis
+kerahasiaan
+kerahasiaan data
+kermit
+kesenjangan antarblok
+kesenjangan antarrekaman
+kibor
+kilobit per detik
+kios
+kirim
+kisi
+klausa pemadanan
+klien
+klien olah pesan
+klona
+koaks pita dasar
+kode
+kode biner
+kode bita
+kode bita java
+kode instruksi
+kode kendali
+kode mesin
+kode objek
+kode operasi
+kode program
+kode rakit
+kode semu
+kode sumber
+kode terpakai ulang
+kode unik
+kode verifikasi
+kodefikasi
+kodek
+kognisi buatan
+kolaps kemacetan
+kolator
+kolom
+komentar
+komentar spam
+kompilasi terpisah
+kompilator
+kompilator bahasa
+kompilator java
+kompleksitas perangkat lunak
+kompleksitas siklomatik
+komponen
+komposit
+kompresi
+kompresi berkas
+kompresi citra
+komputasi grid
+komputasi kinerja tinggi
+komputasi perusahaan
+komputer analog
+komputer asinkron
+komputer bingkai induk
+komputer bingkai utama
+komputer dalam kendaraan
+komputer digital
+komputer generasi keempat
+komputer genggam
+komputer hibrid
+komputer kelas server
+komputer komunikasi
+komputer otomatis
+komputer satelit
+komputer serbaguna
+komputer super
+komputer target
+komunikasi antar proses
+komunikasi asinkron
+komunikasi data
+komunikasi interaktif
+kondisi galat
+koneksi
+konektivitas jaringan area lokal
+konektor serat
+konferensi elektronik
+konkatenasi
+konkurensi
+konsentrator
+konsol
+konsol gim
+konsol permainan
+konstanta
+kontrol numerik
+kontrol proses
+konversi
+konversi berkas
+konversi heksadesimal
+konversi media
+konversi perangkat lunak
+konversi sistem
+konverter
+konverter analog ke digital
+kopi karbon
+koprosesor
+koprosesor grafik
+koreksi gamma
+kotak hitam
+kotak obrolan
+kotak pemecahan
+kotak teks
+krominans
+kualitas draf
+kualitas huruf
+kueri
+kuki
+kunci
+kunci eksklusif
+kunci enkripsi
+kunci lisensi
+kunci lunak
+kunci tab
+kura-kura
+kurva pembelajaran
+label
+label eksternal
+label rekaman
+label tajuk
+laden berkas
+laden proksi
+laju baud
+laju bita
+laju ketukan
+laju transfer informasi
+laman
+lampiran
+lan
+lapak tombol
+lapisan
+lapisan aplikasi
+lapisan fisik
+lapisan sesi
+laptop ultraportabel
+larik
+larik gerbang
+larik jarang
+latar depan
+latensi
+layanan direktori
+layanan informasi
+layanan informasi dalam jaringan
+layanan informasi pengetahuan
+layanan jejaring
+layanan satelit satu arah
+layar datar
+layar kristal
+layar kunci
+layar peka sentuh
+layar penuh
+layar sentuh
+layar tampilan
+leksikon
+lembar kerja
+lembar lajur
+lembar sebar
+limpah atas
+lingkungan
+lingkungan pemrograman
+lingkungan sistem
+lingkungan waktu eksekusi
+log
+logika kabur
+logika program
+logo
+lokalitas rujukan
+luntang
+macet
+makro
+manajemen berkas
+manajemen data
+manajemen informasi
+manajemen jaringan
+manajemen sumber daya
+manajemen sumber daya informasi
+manipulasi data
+map
+marki
+masker alamat
+matriks
+maya
+mb
+mbps
+medan
+medan kunci
+medan tombol
+media
+media interaktif
+megabit
+megabit per detik
+megaflop
+mekanisme konsensus
+memampatkan
+membakar
+memindai
+memori asosiatif
+memori gelembung
+memori kilat
+memori semikonduktor
+memori tembok
+memori utama
+memori virtual
+mencari
+mendigitalkan
+menerima
+mengakses
+mengawakutu
+mengimpor
+menginput
+menginputkan
+menginstal
+menginterpolasi
+mengisi
+mengobrol
+mengunduh
+mengunggah
+mengurut naik
+mengurut turun
+menu
+menu batang
+menu hierarkis
+menu layar penuh
+menyeret
+meragu
+meragut
+merengkah
+mesin akuntansi
+mesin dependen
+mesin pangkalan data
+mesin penambah
+mesin turing
+mesin virtual java
+meta tag
+metaberkas
+metode akses
+metode formal
+metode lintasan kritis
+metode pengembangan perangkat lunak
+metrik perangkat lunak
+mflops
+migrasi
+mikrofilm
+mikrofilm keluaran komputer
+mikrokode
+mikrokontroler
+mikrosirkuit
+mikrosirkuit hibrid
+minikomputer
+mnemonik
+mode
+mode grafik
+model kognitif
+model pangkalan data
+model pengembangan inkremental
+model prediktif
+model proses perangkat lunak
+model relasional
+modem eksternal
+modem faks
+modem internal
+modem kabel
+modem koneksi langsung
+modem serat
+modifikasi alamat
+modifikasi instruksi
+modul
+modul cenderung galat
+modul objek
+modula-2
+modularisasi
+modulasi amplitudo
+modulasi frekuensi
+monitor
+monitor kinerja
+multibut
+multijendela
+multipengguna
+multiplatform
+multipleks divisi frekuensi
+multiplekser
+multiproses
+multiprosesor
+multisambungan
+multisentuh
+mundur
+mundur eksponensial
+mundur eksponensial biner
+narablog
+naravlog
+nic
+nilai larik
+nirhubung
+nirkoneksi
+nomor baris
+nonvolatil
+notasi sintaks abstrak
+objek akses data
+obrol relai internet
+ocehan
+olah pesan
+operasi ilegal
+operator pemrosesan data
+operator pendekodean
+operator relasional
+optik dapat hapus
+optimasi parameter
+organisasi berkas
+orientasi terhubung
+otomat silinder
+otorisasi
+override
+pabrikasi berbantuan komputer
+pabrikasi terpadukan komputer
+paket
+paket aplikasi
+paket grafik
+paket perangkat lunak
+pancaran elektron
+pandu
+panduan
+panel proyeksi lcd
+pangkalan data
+pangkalan data berorientasi objek
+pangkalan data hierarkis
+pangkalan data hipermedia
+pangkalan data hiperteks
+pangkalan data jaringan
+pangkalan data rekaman cadang
+pangkalan data replikasi
+pangkalan data statistik
+pangkalan data terdistribusi
+pangkas
+papan buletin
+papan ekspansi
+papan faks
+papan kendali cakram keras
+papan klip
+papan kunci
+papan papar
+papan salinan
+papan tuts
+paritas genap
+pasang ulang
+pasokan daya takterputus
+pdf
+pecah kendali
+peladen
+pelapisan
+pemadaman sumber
+pemampatan
+pemasaran berbasis data
+pemasaran otomatis
+pemasukan manual
+pembaca dokumen
+pembaca kartu
+pembaca tanda optik
+pembajakan
+pembanding
+pembangkit alamat
+pembangkit aplikasi
+pembangkit kode
+pembangkit laporan
+pembangkitan kode otomatis
+pembangun sistem
+pembaruan kumulatif
+pembelajaran dalam
+pembelajaran mesin
+pembelajaran penguatan
+pembelajaran semi terawasi
+pembelajaran tidak terawasi
+pembenaran teks
+pembuatan keputusan
+pembungkus kata
+pemeriksa ejaan
+pemeriksa galat
+pemeriksa sintaks
+pemeriksaan ujung ke ujung
+pemetaan alamat
+pemformatan
+pemformatan laporan
+pemindahan berkas
+pemindahan dana eletronik
+pemindai citra
+pemindai digital
+pemindai kode batang
+pemindai papan datar
+pemindai virus
+pemindai warna
+pemisah perintah
+pemodelan tiga dimensi
+pemosisian kepala
+pemrograman berorientasi objek
+pemrograman genetik
+pemrograman logika
+pemrograman modular
+pemrograman pangkalan data
+pemrograman serentak
+pemrograman visual
+pemroses bahasa perakit
+pemroses kata
+pemrosesan bahasa alami
+pemrosesan citra
+pemrosesan dalam jaringan
+pemrosesan data
+pemrosesan data elektronik
+pemrosesan data terdistribusi
+pemrosesan data terpusat
+pemrosesan dorongan-data
+pemrosesan interaktif
+pemrosesan kueri
+pemrosesan latar belakang
+pemrosesan luar jaringan
+pemrosesan paralel
+pemrosesan pekerjaan
+pemrosesan terdistribusi
+pemrosesan transaksi
+pemrosesan tumpak
+pemrototipean daur hidup
+pemrototipean eksploratif
+pemrototipean evolusioner
+pemulihan data
+pemutakhir
+pena cahaya grafis
+penamaan ulang
+penamaan ulang berkas
+penambah
+penambangan data
+penampil digital
+penampil grafik dipertingkat
+penampil plasma gas
+penangan
+penangan eksepsi
+penangan interupsi
+penanganan galat
+penapisan alamat sumber
+penapisan surat elektronik
+penataan
+penaut
+pencabangan
+pencacah program
+pencarian berbasis konten
+pencatatan galat
+pencerminan
+pencerminan cakram
+pencetak alpa
+pencetak dupleks
+pencetak elektrostatis
+pencetak halaman
+pencetak huruf
+pencetak jaringan
+pencetak kualitas huruf
+pencetak label
+pencetak laser
+pencetak matriks bintik
+pencetak tumbukan
+pencetak warna
+pencitraan
+pencocokan pola
+pendekatan pengembangan perangkat lunak
+pendekatan terstruktur
+pendigit
+pendigit spasial
+penekukan
+penembolokan
+penempatan silang
+penerapan pembelajaran mesin
+penerbit desktop
+pengakhiran abnormal
+pengakuan
+pengalih jaringan
+pengalihan sirkuit
+pengalihan tugas
+pengamanan berkas
+penganalisis
+penganalisis kinerja
+penganalisis saluran
+penganonim
+pengauditan
+pengawakutuan
+pengawakutuan perangkat lunak
+pengawas
+pengelak kemacetan
+pengelak tabrakan
+pengembangan aplikasi
+pengembangan beorientasi objek
+pengembangan inkremen
+pengembangan perangkat lunak
+pengembangan sistem
+pengembangan sistem informasi
+pengenal
+pengenal huruf
+pengenalan huruf
+pengenalan huruf optik
+pengenalan pola
+pengenalan suara
+pengenalan tulisan tangan
+pengendali serba guna
+pengendali tabung sinar katode
+pengendalian mutu
+pengendusan
+pengendusan kata lewat
+penggabungan surat
+penggandeng akustik
+penggerak peranti jaringan
+penggerak saluran
+penggudangan data
+pengguna akhir
+pengguna maksimum
+pengguna pemula
+pengindeksan pangkalan data
+pengiriman ujung ke ujung
+pengisian bit
+pengisian bita
+pengisian data
+pengodean
+pengodean batang
+pengodean deteksi galat
+pengodean koreksi galat
+pengodean program
+pengolahan bahasa alami
+pengolahan data waktu nyata
+pengolahan informasi
+pengompilasi
+pengompilasi silang
+penguatan
+pengujian
+pengujian a/b
+pengujian antarmuka
+pengujian atas bawah
+pengujian beban
+pengujian dokumentasi
+pengujian inkremental
+pengujian negatif
+pengujian unit
+pengumparan
+pengumpulan sampah
+penguncian berkas
+penilaian risiko
+penjual perangkat lunak independen
+penskalaan
+penukaran tugas
+penulis
+penyangga bingkai
+penyangga masukan
+penyangga masukan/keluaran
+penyanggaan
+penyedia informasi
+penyedia kehadiran internet
+penyembunyian informasi
+penyenaraian
+penyenaraian program
+penyerap data
+penyerap panas
+penyimpan cakram bertukaran
+penyimpan eksternal
+penyimpan emulsi laser
+penyimpan laser
+penyimpan lekat langsung
+penyimpan pak cakram
+penyimpan putus jaring
+penyimpanan awan
+penyisipan panas
+penyunting teks
+perajah
+perajah digital
+perajah papan datar
+perajah tromol
+peralatan terminal data
+peramban berbasis baris
+perangkapan cakram
+perangkat akuntansi
+perangkat bergerak
+perangkat gratis
+perangkat keras dasar
+perangkat lunak kerja sama
+perangkat lunak komunikasi
+perangkat tegar
+peranti asinkron
+peranti haptik
+peranti inframerah
+peranti masukan tulisan tangan
+peranti pintar
+peranti simpan akses langsung
+peranti tanggap audio
+percepatan
+perencanaan sumber daya usaha
+peretasan etis
+performa grafis
+performa komputasi
+periksa gema
+pertukaran data elektronik
+pertukaran data elektronik keuangan
+pertukaran internet niaga
+perute
+perutean
+perutean dinamik
+peta citra
+php
+pikselasi
+pindah langsung
+pipa panas
+pita
+pita dasar
+pita lebar
+pita linear digital
+png
+pohon keputusan
+pola informasi
+pola perilaku
+porta
+porta inframerah
+porta panel datar digital
+porta permainan
+porta serial
+pos
+pos elektronik
+potong tempel
+pramuatan
+pratayang
+produk lebar pita tunda
+program
+program antivirus
+program berdesain pesanan
+program faks
+program kendali
+program layanan
+programer
+prosesor citra
+prosesor data pribadi
+prosesor depan akhir
+prosesor pesan antarmuka
+proteksi data
+proteksi kopi
+proteksi salinan
+protokol gerbang internet
+protokol komunikasi
+protokol konfigurasi hos dinamik
+protokol pemindahan berkas
+protokol pencetak internet
+protokol pengangkat
+protokol resolusi alamat
+pustaka
+ram
+rangkaian hibrida
+rantai balik
+rantai daisi
+referensi absolut
+referensi sel
+register
+register pengaktifan interupsi
+rekam cadang
+rekam cetak
+rekaman layar
+rekaman logis
+rekaman panjang tetap
+rekayasa sosial
+reliabilitas perangkat keras
+render
+rentang audio
+representasi dapat dieksekusi
+resolusi
+resolusi alamat
+resolusi tinggi
+riwayat
+rom
+rpa
+rpc
+rpg
+ruang siber
+ruter
+rutin
+sadap data
+salin tempel
+sambungan
+sampul
+selancar
+serangan maya
+serialisasi
+server proksi
+sesawang
+simpleks
+simulasi monte carlo
+sinyal analog
+sinyal digital
+sirkuit asinkron
+sirkuit terpadu
+sistem cerdas
+sistem multimodal
+sistem operasi
+sistem pembelajaran terdistribusi
+situs
+slot
+standar protokol
+strategi waktu-nyata
+subdirektori
+subnet
+subrutin
+tab
+tabel partisi
+tabel pivot
+tablet
+tag
+tagar
+tanda koreksi
+tanda pagar
+tanda siaran
+tanda tangan digital
+tangkapan suara
+tb
+telekomunikasi
+teletipe
+telop
+tembok api
+tembolok
+terbiar
+tersambung
+tes turing
+tetikus
+tilikan paritas
+tinta koran
+titik akses
+titik pusat
+tombol navigasi
+tombol spasi mundur
+tongkat ria
+topologi
+topologi bus
+topologi cincin
+topologi jaringan
+topologi mesh
+topologi pohon
+transfer gaya
+transformasi digital
+transparansi referensial
+triangulasi
+uji alfa
+unduhan
+unit translasi
+usb
+vektor
+virus
+virus trojan
+vlog
+vpn
+wafer
+waktu tunda
+wan
+wiki
+wisaya

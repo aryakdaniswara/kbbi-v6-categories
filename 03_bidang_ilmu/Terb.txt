@@ -1,0 +1,41 @@
+aerodinamika
+aerodrom
+aip
+aktuator
+avigasi
+badan pesawat
+elevator
+jalan rayap
+kapten penerbang
+kartu kedatangan
+ketinggian absolut
+kode maskapai penerbangan
+kru udara
+kupon penerbangan
+landas hubung
+layanan lalu lintas udara
+pendaratan darurat
+penerbangan antarmaskapai
+penerbangan carter
+penerbangan domestik
+penerbangan jarak jauh
+penerbangan langsung
+penerbangan lanjutan
+penerbangan perdana
+penerbangan perintis
+pengetanahan
+peraga
+pesawat komersial
+pesawat pribadi
+pesawat sipil
+pod
+poin terbang
+ramalan terminal
+ruang pilot
+singgah inap
+sisi udara
+taksi
+terbang solo
+truk air minum
+um
+wartadara

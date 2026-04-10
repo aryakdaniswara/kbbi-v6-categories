@@ -1,0 +1,215 @@
+abutmen
+agregat alam
+agregat halus
+agregat kasar
+agregat ringan
+aki
+akrometer
+alat listrik
+alat pendengar
+alat pengontrol
+alinyemen
+aliran alam
+alumel
+anglo listrik
+anodisasi
+anomali
+antrasian
+anulus
+arus berpulsa
+arus pengisian
+arus polarisasi
+audit keselamatan jalan
+autotrafo
+bahan peledak
+bahan peledak kuat
+bahan peledak lemah
+balok lintel
+basilika
+baterai traksi
+batu lahar
+beban aksial
+beban hidup
+beban lateral
+beban mati
+beban radial
+berpiston
+beton normal
+beton pracetak
+beton prategang
+beton pratekan
+beton ringan
+beton serat
+biaksial
+bioelektrik
+bliding
+boplang
+busbar
+canggih
+cat
+celah jarum
+cincin penyetel
+cincin torak
+cip
+coran
+daerah buta
+damotin
+depilasi
+dioda kristal
+drif
+eksitasi sendiri
+elektroda acuan
+faktor lumen
+faktor sekering
+filamen terikat
+gambar terlaksana
+garis gaya
+garis langit
+gaya magnet
+gelagar
+gelombang berjalan
+geotekstil
+girostatika
+gradasi
+gradasi agregat
+gukakas
+gunrit
+harmonisa
+hilang pijar
+inspektur las
+instrumen presisi
+isolator tiang
+kabel bercadar
+kabel tanam
+kabel udara
+kanibalisme
+kantilever
+kapasitansi
+kapasitas dasar
+karburasi
+karburator
+kataforesis
+katup udara
+kawat pandu
+kawat pilot
+kawat untai
+ketel induk
+kode kawat las
+koil
+kolom
+kolom pedestal
+kolom praktis
+kolom utama
+komponen pemikul beban
+komponen struktur bangunan
+kondensor parsial
+konduksi gas
+konoid
+konstantan
+krib
+kuat tarik
+kuat tekan
+kumparan geometrik
+kurva s
+labu kondensor
+las gas
+las ikat
+las isi
+las tangan
+leher angsa
+lengkung majemuk
+lwbp
+mangkuk
+mata ayak
+mata bor
+meja goyang
+mekanis
+mekanisme
+membran
+menara jangkar
+mes
+mesin bor jumbo
+mesin flotasi
+mesin peledak
+mesin pengayak
+meteorogram
+mikrocip
+moderator
+muka air tanah
+nanokarbon
+nanosilika
+nasel
+nisbah pengisian
+nisbah pengupasan
+obturator
+ofset
+pajanan tajam
+palang kontak
+pancaran air
+pasak
+pasak pindah
+pelat getar
+pelistrikan
+pemakanan
+pembuih
+pemegang kunci
+pemisah magnetik
+pencairan
+penyerap sentakan
+penyesah
+perangkatan udara
+perengkahan
+perkerasan
+perkerasan jalan
+perkerasan kaku
+perkerasan komposit
+perkerasan lentur
+permitivitas
+permukaan ekuipotensial
+pipa saluran
+piston
+poliasetilen
+prospeksi
+radar bistatis
+rangka
+rangka batang
+rangkaian tergandeng
+rangkak
+reaktor daya
+reaktor nondaya
+remanen
+roda gerak
+roda gila
+roda jalan
+roda kontak
+roda pelton
+roda tangan
+ruang ionisasi
+sakelar kedekatan
+sambaran awal
+sel konduktivitas
+selongsong sambung cabang
+sintesis jaringan
+sondir
+stabilitas transien
+struktur komposit
+substasiun
+suspensi
+suspensi balok
+suspensi moncong
+tabung
+tahu beton
+tarif rata
+tegangan
+tegangan impedans
+tegangan leleh
+tegangan rendah
+tegangan tembus
+tekuk badan
+terowongan pengelak
+tetrapod
+turbin
+turbogenerator
+turun mesin
+uji asam
+waktu ikat

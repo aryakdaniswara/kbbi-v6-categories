@@ -1,0 +1,183 @@
+acak
+agregasi
+ahli statistik
+akar ciri
+akar kuadrat tengah simpangan
+akar laten
+aksi tak tergantung
+aksioma kolmogorov
+alias
+alokasi contoh
+alokasi optimum
+anak contoh
+analisis faktor
+analisis kedekatan
+analisis kovarians
+analisis multivariat
+analisis regresi
+analisis varian
+analisis varians
+anggota rumah tangga
+angka kunjungan
+angka pengangguran terbuka
+angket
+ankova
+anova
+artefak statistik
+asdr
+bagan balok
+bagan balok komponen
+bagan kisaran
+bagan lingkar
+bagan logaritmik
+batas atas
+batas kendali
+belum kawin
+bias
+bimodal
+cacah ekonomi
+cacah ganda
+cacah jiwa
+daftar cek-ricek
+data diskret
+data kontinu
+data ordinal
+deret
+deret acak
+desil
+deviasi standar
+diagram jaringan
+diagram panah
+diagram pencar
+diagram tebar
+distribusi frekuensi
+distribusi normal
+distribusi penyampelan
+distribusi poisson
+distribusi probabilitas
+distribusi variabel
+ekuilibrium endemik
+frekuensi relatif
+galat absolut
+galat baku
+galat kumulatif
+galat mutlak
+galat pendugaan
+galat pengamatan
+garis basis
+heteroskedastisitas
+hipotesis nihil
+hipotesis statistik
+histogram
+homogenitas variansi
+homoskedastisitas
+imputasi
+indeks
+indeks harga
+inferensi kausal
+interkorelasi
+kisi
+koefisien kontingensi
+koefisien korelasi
+koefisien variasi
+komparasi konstan
+korelasi bivariat
+korelasi ganda
+korelasi jamak
+korelasi kontingensi
+korelasi linier
+korelasi negatif
+korelasi parsial
+korelasi pearson
+korelasi positif
+korelasi serial
+kuartil
+kuintil
+kurva pertumbuhan
+kurva signoid
+manova
+median
+modus
+nonstatistik
+operasi riset
+p50
+parameter
+percontoh
+percontoh acak
+percontoh induk
+percontoh senarai
+peubah
+poligon frekuensi
+populasi baku
+populasi takterbatas
+populasi terbatas
+pralapangan
+prasurvei
+presentil
+probabilitas awal
+probabilitas bayes
+probabilitas peralihan
+probabilitas subjektif
+rasio ketergantungan
+regresi ganda
+regresi linier
+regresi spasial
+rentang
+rerata
+rerataan
+sampel
+sampel acak
+sampel bebas
+sampel dependen
+sampel independen
+sampel terikat
+sampel total
+sampling acak
+sampling jenuh
+sampling kuota
+sampling sistematis
+sdki
+seroprevalensi
+sidik ragam
+simpangan baku
+skala guttman
+skala interval
+skala thurstone
+standar deviasi
+statistik chi-square
+statistik dasar
+statistik deduktif
+statistik deskriptif
+statistik induktif
+statistik inferensial
+statistik kependudukan
+statistik kesehatan
+statistik khusus
+statistik korelasi
+statistik makroekonomi
+statistik nonparametrik
+statistik parametrik
+statistik regresi
+statistik t
+tabel distribusi frekuensi
+tahun dasar
+taraf signifikan
+taraf signifikansi
+tarif empiris
+tingkat pengangguran terbuka
+uji binomial
+uji f
+uji homogenitas
+uji kenormalan
+uji khi-kuadrat
+uji kruskall wallis
+uji moses
+uji optimal
+uji pengacakan
+uji validitas butir
+ukuran dispersi
+variabel dependen
+variabel independen
+variabel prediktor
+variabel respons
+variansi

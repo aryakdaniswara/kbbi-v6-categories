@@ -1,0 +1,519 @@
+abdomen
+abdusen
+abs
+abs bawah
+adneksa
+adusen
+akromion
+aksesori
+akson
+akueduk serebral
+alur kuku
+alveoli
+alveolus
+amfiartrosis
+amiotonia
+ampula
+ampula hepatopankreatik
+ampula vater
+anabolik
+anak ginjal
+anak tekak
+aneurisme otak
+anggota gerak
+angulus
+ansa
+anteliks
+antitragus
+antrum
+aponeurosis
+aproksimal
+araknoid
+ariepiglotik
+artikulasi
+astigmatis
+atrioventrikular
+atrium
+atrium kanan
+atrium kiri
+atrium prematur
+auditorius
+aurikula
+badan lambung
+bartolin
+bikuspid
+bintik buta
+brakialis
+brakiosefalik
+brakisefalik
+bronkioli
+bronkus
+bulbouretral
+bursa prepatelar
+cairan serebrospinal
+cincin waldeyer
+dasar kuku
+deformitas
+depresor
+dermal
+dermis
+diartrosis
+diensefalon
+dilatasi
+dinding kuku
+diplo
+dorsal
+dorsum
+dropsi
+dubur
+duktus laktiferus
+duktus muleri
+duktus nasolakrimal
+duktus tiroglosal
+duktus wharton
+duktus wolff
+dura mater
+eksfoliasi
+eksitus
+eksorotasi
+eksoskeleton
+ektoserviks
+endokardia
+endokardial
+endokardium
+endometrial
+endometrium
+endoneurium
+endorotasi
+endoserviks
+endosteum
+endotelial
+enteron
+ependima
+epiblas
+epibulbar
+epidermis
+epididimis
+epigastrik
+epikantus
+epikardium
+epimisium
+episklera
+epitalamus
+epitel folikel
+epitel gepeng
+epitel kolumnar
+epitel kuboid
+epitel selapis
+epitel silindris
+epitel skuamosa
+epitel transisional
+epitel tubulus
+eponikium
+ergograf
+ergolitik
+esofagus
+etmoid
+faring
+fasia
+fasia dalam
+fasia superfisial
+fauses
+femoral
+fetus
+fibril
+fibril kolagen
+filtrum
+fisur oblik
+fitotomi
+fleksi
+fleksura
+fonasi
+fundus
+fundus uteri
+ganglia
+ganglia basal
+ganglion
+ganglion basal
+gena
+genikulum
+genioglosus
+ginglimus
+glans
+glenoid
+glomeruli
+glomerulus
+glomus
+glotis
+gubernakulum
+gular
+gumun
+gustatori
+habenula
+hamatum
+hamulus
+hati
+hemidiafragma
+hemifasial
+hemisfer
+hemisfer kanan
+hemisfer kiri
+himen
+hipofaring
+hipogastrik
+hipogastrium
+hipokondriak
+hipokondrium
+hiponikium
+humerus
+ileosekal
+iliolumbar
+iliopsoas
+ilium
+impresi
+infundibulum
+inguinalis
+insersi
+intima
+introitus
+intumesensi
+iodopsin
+iris
+iskium
+isokemi
+jaringan konektif
+jaringan kontraktil
+jaringan otot
+jejunum
+kalkaneus
+kanalikuli
+kanalikulus
+kapsul artikular
+kapsul lensa
+kapsul sendi
+kardiopulmonari
+karotis
+karpus
+kartilago aritenoid
+kartilago kornikulat
+kartilago kosta
+kartilago krikoid
+kartilago kuneiform
+katup hasner
+katup trikuspid
+kelenjar submandibular
+kerampang
+kerangka aksial
+klaustrum
+klavikula
+klitoris
+koana
+koklea
+komisura
+kondilus
+kongenital
+konjungtiva
+konka
+kornea
+koroid
+korpus striatum
+kranial
+kremaster
+kripta
+kripta lieberkuhn
+kuadrisep
+kuspis
+kutikula
+labirin akustik
+labirin menyelaput
+lakrimal
+laktiferus
+lamina propria
+laring
+laringofaring
+lemak kulit
+lempeng kuku
+lengkung aorta
+lensa mata
+lien
+ligamen
+ligamen karpal
+ligamen periodontal
+lipat ariepiglotik
+lobulus
+lobus inferior
+lobus superior
+lobus tengah
+longisimus
+lumbal
+lunula
+maleus
+mamilari
+mandibula
+manubrium
+matriks
+matriks kuku
+meatus
+meatus nasal
+mediastinum
+mediastinum otak kecil
+membran basilar
+membran bowman
+membran sinovial
+membran timpani
+meninges
+meniskus
+mesensefalon
+mesenterium
+mesoderm
+mesosefalik
+mesotel
+metakarpal
+metakarpus
+mikrotia
+mioblas
+mioepitel
+miokardia
+mioklonik
+miometrium
+mukosa esofagus
+mukosa faring
+mukosa gaster
+mukosa gastrointestinal
+mukosa kolon
+mukosa labial
+mukosa rektum
+mukosa sinus
+mulut rahim
+muskularis
+muskulus
+nadi karotis
+nervus
+neurilema
+neuroepitelium
+nosiseptor
+nukleus pulposus
+oftalmik
+oksipital
+oksipitalis
+oksiput
+okulomotor
+oligodendrosit
+organ pernapasan
+organ respirasi
+osikel
+ostium
+otak belakang
+otak besar
+otak kecil
+otokonia
+otot bipenat
+otot deltoid
+otot ekstraokular
+otot gelendong
+otot lurik
+otot multipenat
+otot penat
+otot polos
+otot pronator teres
+otot rangka
+otot stapedius
+otot trisep braki
+palatum
+pampiniform
+papila kater
+paraesofagus
+paranasal
+paratesis
+paraventrikel
+paravertebral
+pektineus
+pelepasan lambung
+pelepasan paha
+pelvis
+percabangan
+perimisium
+periodontium
+periorbita
+periosteum
+peristonium
+peroneal
+peroneus
+pia mater
+pilorus
+pituisit
+pleksus
+pleura
+pleura bilateral
+plika
+plika fimbriata
+plika lakrimal
+pohon
+pohon trakeobronkial
+pons
+porta
+prafrontal
+premotor
+pronator
+prosesus
+prostat
+pterion
+pubis
+putamen
+radial
+radioulnar
+ramus
+rangka aksial
+rangka apendikular
+rektosigmoid
+retroversi
+rombensefalon
+rongga abdomen
+rongga gastrovaskuler
+rongga mantel
+rongga panggul
+rongga pelvis
+rongga peritoneum
+rongga perut
+rongga pleura
+rongga rahim
+rongga sendi
+rongga sinus
+rongga tengkorak
+rongga toraks
+rongga uterus
+ruang epidural
+ruang retrobulbar
+ruang retrokardiak
+ruang retzins
+sakroiliaka
+sakrokoksigeal
+sakrolumbal
+sakrum
+sakulus
+saluran kemih
+saluran lahir
+sanggurdi
+saraf abdusen
+saraf aferen
+saraf akustik
+sartorius
+sel argentafin
+sel purkinje
+sel schwann
+sel sertoli
+selaput bening mata
+selaput dada
+selaput dara
+selaput gendang
+selaput jala
+selaput jantung
+selaput jantung luar
+selaput pelindung otak
+selaput tulang
+sementum
+semimembranosus
+sendi lumbosakral
+sendi sakroiliaka
+sendi temporomandibular
+serabut retikuler
+serat otot
+serat otot kedut cepat
+serat otot kedut lambat
+serebelar
+serebral
+sfingter
+simfisis
+simpul sinoatrial
+simpul sinus
+sinkondrosis
+sinostosis
+sinus karotis
+sinus kavernus
+sinus laktiferus
+sinus paranasal
+sinus sfenoid
+sinus venosus
+sinusoid
+sistem reproduksi
+sistem urinaria
+sisterna
+skafa
+skafoid
+skeletal
+skeleton
+sklera
+spinal
+statokonia
+sternokleidomastoid
+sternum
+stomodeum
+stratum granulosum
+stratum korneum
+stratum lusidum
+stratum spinosum
+striatum
+struktur anatomi
+subglotis
+subkondral
+submandibular
+suborbital
+substansi kelabu
+substansi putih
+substansia
+substansia nigra
+sulkus
+supinator
+supraorbital
+sutura
+tabung saraf
+talus
+tarsal
+telson
+tendon achilles
+tensor
+tergum
+tibia
+tibialis anterior
+titik buta
+tonsil lidah
+tonsil tuba
+toraks
+trabekular
+tragus
+trakeobronkial
+trapezius
+trigon
+troklea
+troklear
+tuberositas
+tubulus seminiferus
+tulang alveolar
+tulang etmoid
+tulang pengumpil
+tulang rawan aritenoid
+unguis
+uterus
+utrikel
+utrikulus
+uvula
+valekula
+velamentum
+velar
+vena azigos
+vena hemiazigos
+vena jugular
+vena jugularis
+vena kava
+vena kava inferior
+vena kava superior
+vena portal
+vena safena
+vertebra
+vesikula
+vesikula seminalis
+vestibula
+visera
+xifisternum
+zalir serebrospinal
+zona fasikulata

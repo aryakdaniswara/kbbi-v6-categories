@@ -1,0 +1,212 @@
+akb
+angka aborsi
+angka absolut
+angka beban tanggungan
+angka fertilitas
+angka fertilitas kumulatif
+angka fertilitas perkawinan
+angka fertilitas total
+angka fertilitas umum
+angka final jumlah penduduk
+angka harapan hidup
+angka indeks
+angka kelahiran
+angka kelahiran intrinsik
+angka kelahiran jadah
+angka kelahiran kasar
+angka kelahiran menurut paritas
+angka kelahiran menurut umur
+angka kelahiran sah
+angka kelahiran umum
+angka kelahiran wanita yang belum menikah
+angka kematian anak
+angka kematian anak balita
+angka kematian anak-anak
+angka kematian bayi
+angka kematian ibu
+angka kematian kasar
+angka kematian kasus
+angka kematian menurut umur
+angka kematian neonatal
+angka kematian pascaneonatal
+angka kematian perinatal
+angka kemiskinan
+angka kesuburan total
+angka kesuburan umum
+angka melek huruf
+angka migrasi
+angka migrasi bruto
+angka migrasi keluar
+angka migrasi masuk
+angka migrasi neto
+angka morbiditas
+angka partisipasi sekolah
+angka perceraian
+angka perkawinan menurut umur
+angka pernikahan kasar
+angka pernikahan ulang
+angka prevalensi
+angka prevalensi kehamilan
+angka reproduksi
+angka reproduksi bersih
+angka reproduksi bruto
+angka reproduksi kotor
+angka reproduksi neto
+angka spesifik usia
+angka urbanisasi
+bangunan sensus bukan tempat tinggal
+bangunan sensus campuran
+bangunan sensus tempat tinggal
+bangunan sensus tempat tinggal kosong
+batas administrasi
+blok sensus biasa
+blok sensus khusus
+blok sensus persiapan
+data sewaktu
+demografi ekonomi
+demografi sosial
+dinamika penduduk
+dispersal
+distribusi paritas
+distribusi umur
+dokumen kependudukan
+fekunditas
+fertilitas jadah
+fertilitas sah
+gradien perkotaan
+jarak kelahiran
+kawasan perdesaan
+kawasan permukiman
+kawasan transmigrasi
+kawin belum tercatat
+kawin tercatat
+kebijakan antinatalitas
+kebijakan pronatalitas
+kemiskinan individual
+kemiskinan massal
+kemiskinan sementara
+kenaikan fertilitas
+ketimpangan wilayah
+kohor kelahiran
+kohor perkawinan
+konektivitas wilayah
+kota
+kota baru publik
+kota besar
+kota inti
+kota kecil
+kota kompak
+kota pesisir
+kota satelit mandiri
+kota sedang
+kota terpadu mandiri
+laju kematian spesifik
+ledakan penduduk
+lingkungan hunian
+metropolis bintang
+metropolis cincin
+migrasi berantai
+migrasi bersih
+migrasi bruto
+migrasi buruh
+migrasi internal
+migrasi internasional
+migrasi keluar
+migrasi keluarga
+migrasi kotor
+migrasi masuk
+migrasi nasional
+migrasi neto
+migrasi perkawinan
+migrasi perorangan
+migrasi pulang
+migrasi semasa hidup
+migrasi sirkular
+migrasi sirkuler
+migrasi total
+migrasi ulang-alik
+morbiditas
+peledakan penduduk
+pencitraan kota
+pendapatan nasional bruto
+penduduk de facto
+penduduk de jure
+penganggur tersembunyi
+pengangguran friksional
+pengangguran musiman
+pengangguran siklis
+pengangguran struktural
+pengangguran teknologi
+pengangguran terbuka
+pengangguran terdidik
+pengangguran terselubung
+pengangguran tersembunyi
+pengangguran tidak kentara
+pengendalian populasi
+pengklasteran
+penuaan penduduk
+perencanaan keluarga
+pergeseran populasi
+perkiraan antarsensus
+perkiraan pascasensus
+perkiraan penduduk
+permukiman formal
+permukiman informal
+permukiman kumuh
+permukiman pesisir
+permukiman transmigrasi
+pertumbuhan populasi nol
+pertumbuhan wilayah
+perumahan kumuh
+piramida konstruktif
+piramida penduduk
+piramida penduduk dewasa
+piramida penduduk muda
+piramida penduduk tua
+populasi muda
+populasi stabil
+populasi target
+populasi terjangkau
+populasi tua
+prevalensi kontrasepsi
+probabilitas kelahiran menurut paritas
+probabilitas kelahiran menurut umur
+profil demografi
+proyeksi penduduk
+proyeksi populasi
+rasio aborsi
+rasio anak dan wanita
+rasio jenis kelamin
+rasio ketergantungan usia
+remigrasi
+revitalisasi kawasan
+rumah tangga tunggal
+sistem perkotaan
+struktur usia dan jenis kelamin
+tinggi bangunan
+tingkat kemiskinan
+tipologi desa
+transisi demografi
+transmigrasi bedol desa
+transmigrasi keluarga
+transmigrasi khusus
+transmigrasi padat karya
+transmigrasi ruralisasi
+transmigrasi sektoral
+transmigrasi swabantuan
+transmigrasi swamandiri
+transmigrasi umum
+transpolitan
+vitalitas kawasan
+wilayah adat
+wilayah bukan perkotaan
+wilayah ekonomi
+wilayah izin usaha pertambangan
+wilayah pencadangan negara
+wilayah pengembangan strategis
+wilayah pengembangan transmigrasi
+wilayah pertambangan rakyat
+wilayah pesisir
+wilayah pusat pertumbuhan industri
+wilayah tertinggal
+wilayah usaha pertambangan

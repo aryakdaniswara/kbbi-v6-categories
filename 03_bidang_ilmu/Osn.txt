@@ -1,0 +1,242 @@
+abisal
+abw
+air garam pekat
+air interstisial
+air pertengahan
+air rendah
+air rendah perbani
+air rendah rata-rata
+air rendah terendah
+air rendah terendah purnama rata-rata
+air rendah terendah rata-rata
+air surut terendah
+air tinggi
+air tinggi perbani
+air tinggi rata-rata
+air tinggi tertinggi
+air tinggi tertinggi rata-rata
+akuanaut
+alat ukur pasut
+alga bentik
+alga berkapur
+aliran barotropik
+aliran udara jet
+alkalinitas spesifik
+amfibolit
+amo
+anoksia
+anomali ketinggian dinamik
+anomali magnetik
+antarmuka udara-laut
+apogi
+apungan benua
+apungan lempeng
+apungan litoral
+arah gelombang
+arah meridian
+area laut kutub
+arlindo
+arus agulhas
+arus akibat angin
+arus alaska
+arus angola
+arus balik bawah
+arus balikan
+arus brasil
+arus california
+arus cromwell
+arus davidson
+arus florida
+arus geostrofik
+arus greenland timur
+arus inersia
+arus kanari
+arus labrador
+arus lepas pantai
+arus litoral
+arus orbital
+arus pantai
+arus pasang
+arus pasut
+arus pasut burit
+arus pasut perbani
+arus pecah
+arus periodik
+arus permanen
+arus rerata
+arus sejajar pantai
+arus somalia
+arus susur pantai
+arus turbiditas
+bahan kuning
+bahan organik partikulat
+bahan organik terlarut refraktori
+bahan organik terlarut sangat labil
+bahan organik terlarut semilabil
+bahan organik terlarut ultrahalus
+basal bantalan
+batial
+batipelagik
+batitermograf
+batitermogram
+batu jatuhan
+beban dasar
+bibir pantai
+botol nansen
+cekungan anoksik
+daratan timbul
+datum lokal
+diamondoid
+diazotrof
+difusi eddy
+epipelagik
+estuari balikan
+estuari harian
+estuari musiman
+estuari tercampurkan
+estuari terstratifikasi
+eufotik
+eutrofikasi budidaya
+evaporit
+faktor pengayaan
+garis buih
+garis pantai primer
+garis pantai sekunder
+gelombang ekstrem
+gelombang internal
+gelombang pecah
+gelombang pendahulu
+gelombang rossby
+gelung balikan negatif
+gelung balikan positif
+glasioeustatik
+gobah
+grup gelombang
+hadal
+haloklin
+hanyutan balik
+hidrat klatrat
+iklim maritim
+interferensi destruktif
+interferensi konstruktif
+interval lunisolar
+ion konservatif
+ion nonkonservatif
+isopiknal
+isostasi
+jarak lingkup angin
+jarak peluruhan
+kalor laten penguapan
+kapas laut
+karakteristik salinitas nol
+karang meja
+karbon organik partikulat
+karbonat balkon
+kecepatan fase
+kecepatan pengendapan
+kedalaman kompensasi
+kedalaman kompensasi aragonit
+kedalaman kompensasi kalsit
+kedalaman kritis
+kepulan hitam
+kepulan putih
+kerak daratan
+kerak samudra
+kolom sedimen
+kompresibilitas
+lagunal
+laju akumulasi
+lapisan bergradien
+lapisan dikotermal
+lapisan nefeloid
+lapisan oksigen minimum
+lapisan suboksik
+lapisan tercampur
+laut dalam
+laut tepian
+lempung laut dalam
+lempung pelagik
+limpasan sungai
+litogen
+meroplankton
+mesopelagik
+mesoplankton
+normobarik
+nutriklin
+ofiolit
+oksiklin
+paleooseanografi
+pantai berbatu
+pantai berkarang
+pantai berlumpur
+pantai berpasir
+pantai netral
+pantai terdeposisi
+partikel ekspolimer transparan
+pasang surut campuran
+pasang surut diurnal
+pasang surut parsial
+pasang surut semidiurnal
+pelindung pantai
+pematang alga
+pematang pantai
+pemberatan partikel
+pemompaan eddy
+penduga gema
+pengendapan basah
+pengendapan kering
+pengukur pasut otomatis
+perairan
+piknoklin
+polutogen
+pompa biologis
+pompa kelarutan
+punggung pantai
+pushidros
+rabung tengah samudera
+rasio bowen
+reaksi pemecahan
+refraksi gelombang
+salinitas evaporasi
+salinitas konduktivitas
+salinitas kritis
+salinitas mutlak
+sedimen biogenus
+sedimen hidrogenus
+sedimen litogenus
+segregasi mendatar
+sempadan pantai
+seston
+sirkulasi termohalin
+status laut
+status limnologis
+stratifikasi
+stratifikasi densitas
+suhu insitu
+suhu potensial
+susutan titik beku
+termometer pembalik
+tilit
+timpas purata
+tinggi air laut purata
+titik amfidromik
+tombolo
+tomografi akustik
+turbidit
+unsur hidrogenus
+waktu mukim
+waktu percampuran
+zona abisal
+zona aktif biogenik
+zona antarpasut
+zona batial
+zona bayangan
+zona empasan
+zona epinetrik
+zona fotosintesis
+zona konvergen
+zona oseanik
+zona pelagik
+zona simpul
+zona sublitoral
+zona supratidal

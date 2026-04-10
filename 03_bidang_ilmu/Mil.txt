@@ -1,0 +1,332 @@
+abatis
+admiral
+agresi bersenjata
+agresi ganas
+agresi taklangsung
+aide de camp
+ajudan
+aka
+aki
+aksi rahasia
+aktor kuat
+amatan
+amunisi udara
+analisis konflik
+ancaman bersenjata
+ancaman koersif
+ancaman militer
+angkatan siber
+apel
+area pendaratan
+artileri
+artileri bantuan
+artileri gunung
+babin
+bahan peledak sisa perang
+bangtik
+banjar
+banzi
+barase
+barisan
+barisan belakang
+barisan depan
+barisan kehormatan
+barisan teras
+batalion pengintai
+batang kabu-kabu
+batas absolut
+baterai
+bekang
+biaya konflik
+blitzkrieg
+bssn
+dandenma
+dandenmin
+dandenzipur
+dandim
+danki
+dankiban
+dankibeng
+dankikes
+dankimas
+dankipal
+dankorpaskhas
+danlanud
+danpos
+danpus
+danpusdikpassus
+danramil
+danran
+danrem
+dansek
+danska
+danskadik
+dansus jurupa
+dantonang
+dantonban
+dantonhar
+dantonhub
+dantonpan
+danwil
+danyon
+daya gempur
+daya tembak
+defensi
+dekonfliksi
+demilitarisasi
+demobilisasi anak
+demolisi
+denkes
+densus
+detasemen
+diksarmil
+dinas keprajuritan
+diskriminasi terbalik
+dislokasi
+ekspedisi
+emplasemen
+ensambel
+epolet
+eselon
+eskadron
+evakuasi aeromedis
+garis konfrontasi
+garnisun
+gencatan senjata sementara
+granat asap
+granat fragmentasi
+granat kejut
+granat mortir
+granat nanas
+granat pembakar
+granat setrum
+gudang persenjataan
+gudmurah
+guraklih
+hilang dalam tugas
+hois
+hormat senjata
+howitzer
+imbal dagang
+infanteri
+inisiator
+inkursi
+inspeksi
+intelijen
+intelijen taktis
+intelijen tempur
+intervensi konflik
+jabmilsus
+jaring teritorial
+jiwa korsa
+juru citra
+kadensus
+kadet penerbang
+kamp perdamaian
+kanonade
+kasum
+kawasan tembak udara
+keamanan manusia
+kejahatan perang
+kekejaman massal
+kekerasan bersenjata
+kelompok bersenjata
+kelompok rentan
+kerentanan keamanan
+kesdam
+kesepakatan damai
+kiban
+kima
+kipan
+kodal
+komando
+komando kendali
+komando militer
+kompi
+kompi bantuan
+kompi markas
+kompi senapan
+konflik asimetris
+konflik bersenjata
+konfrontasi militer
+koops
+koopsau
+koopssusgab
+koopsud
+kopkamtib
+korve
+kotama
+kotama ops
+kudeta junta
+lanal
+laporan intelijen
+latihan bersama
+latihan lapangan
+latihan medan tanpa pasukan
+latihan peta
+latihan staf
+latihan taktis
+latihan tempur
+logistik
+manlap
+manuver
+marinir
+militerisasi
+narkoterorisme
+negara gagal
+negara pascakonflik
+negara pemukiman kembali
+nilai konflik
+nonorganik
+nonproliferasi
+objek sipil
+omnipotensi
+operasi
+operasi berbasis efek
+operasi dukungan perdamaian
+operasi kemanusiaan
+operasi perdamaian
+operasi psikologis
+operasi senyap
+operasi spionase
+orang telantar
+ordonans
+pangarmabar
+pangarmatim
+pangdivif
+pangkoopsud
+pangkoopsudnas
+pangkosekhanudnas
+pangkotama
+panglima komando
+panglima perang
+panglima tentara
+pangosek
+paskhas
+pasmar
+pasops
+paspotmar
+pasukan bersenjata
+pasukan keamanan
+pasukan kemanusiaan
+pda
+pelucutan ranjau
+pemantauan perbatasan
+pembangkangan sipil
+pembersihan etnis
+pembicaraan proksi
+pembuatan konstitusi
+pemerintahan transisi
+pemetaan bahaya
+pemimpin kluster
+pemimpin perdamaian
+pemindahan paksa
+pemukiman kembali
+pemulangan paksa
+pemulihan pascakonflik
+pemusnahan amunisi
+pemusnahan bahan peledak
+pemusnahan senjata
+pencari suaka
+pencegahan bersama
+pencegahan genosida
+pencegahan konflik
+penciptaan perdamaian
+penciptaan solusi
+pendekatan berbasis hak
+penegakan perdamaian
+penembak jitu
+penembak runduk
+penetrator
+pengadilan transisi
+pengaruh luar
+pengawasan terpilih
+pengendalian perbatasan
+pengendalian senjata
+penghancuran persediaan
+penghentian permusuhan
+pengintai
+pengungsi internal
+pengurangan konflik
+pengurangan risiko
+penyekatan
+peperangan siber
+perang agama
+perang asimetris
+perang proksi
+perwira pelaksana
+pespur
+pisir
+pk
+prajurit karier
+prajurit komando
+prajurit siswa
+prajurit sukarela
+proliferasi
+pusat komando
+puspenerbal
+ranhar
+resimen artileri
+resimen infanteri
+sas.
+satbanmin
+satbanpur
+satelit mata-mata
+satgom
+satgultor
+satkesban
+satkeslap
+satkeslemdik
+satkessus
+satkesyah
+satminkal
+satpom
+satpomau
+satpur
+sayap militer
+senapan gentel
+senapan runduk
+senapan tempur
+serangan darat
+serangan gerilya
+serangan kombo
+serpas
+serum
+smb
+smr
+sms
+sr.insp.pol.
+sr.supt.
+ssat
+ssk.
+stabo
+strategi bumi hangus
+sudut hidup
+sudut mati
+supit urang
+suslapa
+tank infanteri
+tank tempur
+tbo
+tenaga bantu operasi
+terorisme narkotika
+tontaipur
+wannika
+yonaksus
+yonangair
+yonangmor
+yonar
+yonarmed
+yonbekpal
+yondemonlat
+yongab
+yonhub
+yonkomlek
+yonobs
+yonroketmar
+yontaifib
+yontaipur
+yontank
+yonter
+yonzi
+yudamala

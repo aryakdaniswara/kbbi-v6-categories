@@ -1,0 +1,65 @@
+bahan lunak
+bangunan industri
+bopp
+butsir
+deflagrasi
+deglomerasi
+ikma
+industri agrikultur
+industri automotif
+industri berat
+industri bioteknologi
+industri dasar
+industri ekstraktif
+industri farmasi
+industri galangan
+industri garmen
+industri halal
+industri hiburan
+industri hilir
+industri hulu
+industri jasa
+industri jasa pangan
+industri kecantikan
+industri kecil
+industri kimia
+industri konstruksi
+industri kosmetik
+industri kreatif
+industri kuarter
+industri manufaktur
+industri maritim
+industri mebel
+industri migas
+industri mode
+industri musik
+industri olahraga
+industri padat karya
+industri padat modal
+industri pariwisata
+industri pelopor
+industri pengolahan
+industri perdesaan
+industri perfilman
+industri periklanan
+industri perintis
+industri perminyakan
+industri pertahanan
+industri petrokimia
+industri pionir
+industri primer
+industri retail
+industri ringan
+industri rumah tangga
+industri rumahan
+industri senja kala
+industri tekstil
+industri telekomunikasi
+kayu solid
+lini produksi
+lot
+nppbkc
+produk ruahan
+remobilisasi
+tkdn
+viskose
